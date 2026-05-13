@@ -1,0 +1,8941 @@
+[
+  [
+    "brainstorm",
+    {
+      "timestamp": 1778691837597,
+      "isObsidian": false
+    }
+  ],
+  [
+    "intelligent-routing",
+    {
+      "timestamp": 1778691866624,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-manager-skill",
+    {
+      "timestamp": 1778691850250,
+      "isObsidian": false
+    }
+  ],
+  [
+    "AI & Machine Learning",
+    {
+      "timestamp": 1778691646340,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-evaluation",
+    {
+      "timestamp": 1778691850248,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-memory-mcp",
+    {
+      "timestamp": 1778691850253,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-memory-systems",
+    {
+      "timestamp": 1778691850255,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-orchestration-improve-agent",
+    {
+      "timestamp": 1778691850256,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-framework-azure-ai-py",
+    {
+      "timestamp": 1778691850252,
+      "isObsidian": false
+    }
+  ],
+  [
+    "activecampaign-automation",
+    {
+      "timestamp": 1778691850242,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-orchestrator",
+    {
+      "timestamp": 1778691825872,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-orchestration-multi-agent-optimize",
+    {
+      "timestamp": 1778691850258,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agent-tool-builder",
+    {
+      "timestamp": 1778691850260,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agentfolio",
+    {
+      "timestamp": 1778691850259,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agentic-actions-auditor",
+    {
+      "timestamp": 1778691850264,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agentmail",
+    {
+      "timestamp": 1778691850262,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agents-v2-py",
+    {
+      "timestamp": 1778691850267,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-analyzer",
+    {
+      "timestamp": 1778691850277,
+      "isObsidian": false
+    }
+  ],
+  [
+    "agents-md",
+    {
+      "timestamp": 1778691850265,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-engineer",
+    {
+      "timestamp": 1778691850281,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-engineering-toolkit",
+    {
+      "timestamp": 1778691850279,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-agents-architect",
+    {
+      "timestamp": 1778691850271,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-agent-development",
+    {
+      "timestamp": 1778691850269,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-product",
+    {
+      "timestamp": 1778691850286,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-studio-image",
+    {
+      "timestamp": 1778691825875,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-md",
+    {
+      "timestamp": 1778691850288,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-wrapper-product",
+    {
+      "timestamp": 1778691850290,
+      "isObsidian": false
+    }
+  ],
+  [
+    "airflow-dag-patterns",
+    {
+      "timestamp": 1778691825878,
+      "isObsidian": false
+    }
+  ],
+  [
+    "airtable-automation",
+    {
+      "timestamp": 1778691850291,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-ml",
+    {
+      "timestamp": 1778691850283,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ai-native-cli",
+    {
+      "timestamp": 1778691850285,
+      "isObsidian": false
+    }
+  ],
+  [
+    "autonomous-agent-patterns",
+    {
+      "timestamp": 1778691850354,
+      "isObsidian": false
+    }
+  ],
+  [
+    "autonomous-agents",
+    {
+      "timestamp": 1778691850350,
+      "isObsidian": false
+    }
+  ],
+  [
+    "avoid-ai-writing",
+    {
+      "timestamp": 1778691850356,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-agents-persistent-dotnet",
+    {
+      "timestamp": 1778691850369,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-agents-persistent-java",
+    {
+      "timestamp": 1778691850371,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-anomalydetector-java",
+    {
+      "timestamp": 1778691850373,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-contentsafety-py",
+    {
+      "timestamp": 1778691850379,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-contentsafety-java",
+    {
+      "timestamp": 1778691850374,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-contentsafety-ts",
+    {
+      "timestamp": 1778691850376,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-formrecognizer-java",
+    {
+      "timestamp": 1778691850385,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-document-intelligence-dotnet",
+    {
+      "timestamp": 1778691850381,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-document-intelligence-ts",
+    {
+      "timestamp": 1778691850383,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-contentunderstanding-py",
+    {
+      "timestamp": 1778691850378,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-projects-py",
+    {
+      "timestamp": 1778691850393,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-projects-dotnet",
+    {
+      "timestamp": 1778691850387,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-projects-java",
+    {
+      "timestamp": 1778691850391,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-projects-ts",
+    {
+      "timestamp": 1778691850396,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-textanalytics-py",
+    {
+      "timestamp": 1778691850398,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-ml-py",
+    {
+      "timestamp": 1778691850403,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-transcription-py",
+    {
+      "timestamp": 1778691850401,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-translation-document-py",
+    {
+      "timestamp": 1778691850406,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-translation-text-py",
+    {
+      "timestamp": 1778691850409,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-openai-dotnet",
+    {
+      "timestamp": 1778691850389,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-translation-ts",
+    {
+      "timestamp": 1778691850412,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-voicelive-dotnet",
+    {
+      "timestamp": 1778691850417,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-voicelive-java",
+    {
+      "timestamp": 1778691850429,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-vision-imageanalysis-py",
+    {
+      "timestamp": 1778691850420,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-vision-imageanalysis-java",
+    {
+      "timestamp": 1778691850414,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-voicelive-py",
+    {
+      "timestamp": 1778691850432,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-containerregistry-py",
+    {
+      "timestamp": 1778691850459,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-arizeaiobservabilityeval-dotnet",
+    {
+      "timestamp": 1778691850531,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-speech-to-text-rest-py",
+    {
+      "timestamp": 1778691850598,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-ai-voicelive-ts",
+    {
+      "timestamp": 1778691850435,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-blob-rust",
+    {
+      "timestamp": 1778691850603,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-file-datalake-py",
+    {
+      "timestamp": 1778691850607,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-blob-py",
+    {
+      "timestamp": 1778691850602,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-file-share-py",
+    {
+      "timestamp": 1778691850609,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-file-share-ts",
+    {
+      "timestamp": 1778691850611,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-blob-ts",
+    {
+      "timestamp": 1778691850605,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-queue-py",
+    {
+      "timestamp": 1778691850613,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-blob-java",
+    {
+      "timestamp": 1778691850600,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-storage-queue-ts",
+    {
+      "timestamp": 1778691850616,
+      "isObsidian": false
+    }
+  ],
+  [
+    "blockchain-developer",
+    {
+      "timestamp": 1778691850655,
+      "isObsidian": false
+    }
+  ],
+  [
+    "brainstorming",
+    {
+      "timestamp": 1778691651241,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bullmq-specialist",
+    {
+      "timestamp": 1778691850680,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claimable-postgres",
+    {
+      "timestamp": 1778691855086,
+      "isObsidian": false
+    }
+  ],
+  [
+    "c4-container",
+    {
+      "timestamp": 1778691850701,
+      "isObsidian": false
+    }
+  ],
+  [
+    "computer-use-agents",
+    {
+      "timestamp": 1778691855145,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-documentation-code-explain",
+    {
+      "timestamp": 1778691827601,
+      "isObsidian": false
+    }
+  ],
+  [
+    "computer-vision-expert",
+    {
+      "timestamp": 1778691855147,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-review-ai-ai-review",
+    {
+      "timestamp": 1778691855126,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-agent",
+    {
+      "timestamp": 1778691827636,
+      "isObsidian": false
+    }
+  ],
+  [
+    "crypto-bd-agent",
+    {
+      "timestamp": 1778691855220,
+      "isObsidian": false
+    }
+  ],
+  [
+    "daily",
+    {
+      "timestamp": 1778691855234,
+      "isObsidian": false
+    }
+  ],
+  [
+    "daily-news-report",
+    {
+      "timestamp": 1778691651249,
+      "isObsidian": false
+    }
+  ],
+  [
+    "crewai",
+    {
+      "timestamp": 1778691855219,
+      "isObsidian": false
+    }
+  ],
+  [
+    "devcontainer-setup",
+    {
+      "timestamp": 1778691855288,
+      "isObsidian": false
+    }
+  ],
+  [
+    "earllm-build",
+    {
+      "timestamp": 1778691860031,
+      "isObsidian": false
+    }
+  ],
+  [
+    "email-sequence",
+    {
+      "timestamp": 1778691860039,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dispatching-parallel-agents",
+    {
+      "timestamp": 1778691855299,
+      "isObsidian": false
+    }
+  ],
+  [
+    "email-systems",
+    {
+      "timestamp": 1778691860047,
+      "isObsidian": false
+    }
+  ],
+  [
+    "emblemai-crypto-wallet",
+    {
+      "timestamp": 1778691860042,
+      "isObsidian": false
+    }
+  ],
+  [
+    "domain-driven-design",
+    {
+      "timestamp": 1778691829741,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-pragmatic",
+    {
+      "timestamp": 1778691860215,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-debugging-multi-agent-review",
+    {
+      "timestamp": 1778691860054,
+      "isObsidian": false
+    }
+  ],
+  [
+    "enhance-prompt",
+    {
+      "timestamp": 1778691860052,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-ts-pragmatic",
+    {
+      "timestamp": 1778691860212,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gmail-automation",
+    {
+      "timestamp": 1778691860303,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-tailwind-setup",
+    {
+      "timestamp": 1778691860099,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hierarchical-agent-memory",
+    {
+      "timestamp": 1778691860361,
+      "isObsidian": false
+    }
+  ],
+  [
+    "explain-like-socrates",
+    {
+      "timestamp": 1778691860076,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hosted-agents-v2-py",
+    {
+      "timestamp": 1778691866558,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hosted-agents",
+    {
+      "timestamp": 1778691866561,
+      "isObsidian": false
+    }
+  ],
+  [
+    "html-injection-testing",
+    {
+      "timestamp": 1778691866567,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-cli",
+    {
+      "timestamp": 1778691866576,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-datasets",
+    {
+      "timestamp": 1778691866586,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-evaluation",
+    {
+      "timestamp": 1778691866581,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-dataset-viewer",
+    {
+      "timestamp": 1778691866578,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-model-trainer",
+    {
+      "timestamp": 1778691866590,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-jobs",
+    {
+      "timestamp": 1778691866584,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-tool-builder",
+    {
+      "timestamp": 1778691866600,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hugging-face-paper-publisher",
+    {
+      "timestamp": 1778691866595,
+      "isObsidian": false
+    }
+  ],
+  [
+    "kaizen",
+    {
+      "timestamp": 1778691866676,
+      "isObsidian": false
+    }
+  ],
+  [
+    "langchain-architecture",
+    {
+      "timestamp": 1778691866699,
+      "isObsidian": false
+    }
+  ],
+  [
+    "lightning-factory-explainer",
+    {
+      "timestamp": 1778691866722,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-app-patterns",
+    {
+      "timestamp": 1778691866742,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-application-dev-langchain-agent",
+    {
+      "timestamp": 1778691866745,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-application-dev-prompt-optimize",
+    {
+      "timestamp": 1778691832706,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-ops",
+    {
+      "timestamp": 1778691866752,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-evaluation",
+    {
+      "timestamp": 1778691866749,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-application-dev-ai-assistant",
+    {
+      "timestamp": 1778691832703,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-structured-output",
+    {
+      "timestamp": 1778691866764,
+      "isObsidian": false
+    }
+  ],
+  [
+    "llm-prompt-optimizer",
+    {
+      "timestamp": 1778691866762,
+      "isObsidian": false
+    }
+  ],
+  [
+    "local-llm-expert",
+    {
+      "timestamp": 1778691866757,
+      "isObsidian": false
+    }
+  ],
+  [
+    "m365-agents-dotnet",
+    {
+      "timestamp": 1778691873880,
+      "isObsidian": false
+    }
+  ],
+  [
+    "m365-agents-py",
+    {
+      "timestamp": 1778691873892,
+      "isObsidian": false
+    }
+  ],
+  [
+    "m365-agents-ts",
+    {
+      "timestamp": 1778691873890,
+      "isObsidian": false
+    }
+  ],
+  [
+    "machine-learning-ops-ml-pipeline",
+    {
+      "timestamp": 1778691873883,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ml-engineer",
+    {
+      "timestamp": 1778691874008,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mermaid-expert",
+    {
+      "timestamp": 1778691873990,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mailchimp-automation",
+    {
+      "timestamp": 1778691873894,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ml-pipeline-workflow",
+    {
+      "timestamp": 1778691874016,
+      "isObsidian": false
+    }
+  ],
+  [
+    "multi-agent-brainstorming",
+    {
+      "timestamp": 1778691874059,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mlops-engineer",
+    {
+      "timestamp": 1778691874019,
+      "isObsidian": false
+    }
+  ],
+  [
+    "new-rails-project",
+    {
+      "timestamp": 1778691874188,
+      "isObsidian": false
+    }
+  ],
+  [
+    "paid-ads",
+    {
+      "timestamp": 1778691874353,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-xml-views-builder",
+    {
+      "timestamp": 1778691874328,
+      "isObsidian": false
+    }
+  ],
+  [
+    "multi-agent-patterns",
+    {
+      "timestamp": 1778691874056,
+      "isObsidian": false
+    }
+  ],
+  [
+    "parallel-agents",
+    {
+      "timestamp": 1778691874360,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pipecat-friday-agent",
+    {
+      "timestamp": 1778691835202,
+      "isObsidian": false
+    }
+  ],
+  [
+    "plaid-fintech",
+    {
+      "timestamp": 1778691874397,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prompt-caching",
+    {
+      "timestamp": 1778691884952,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prompt-engineer",
+    {
+      "timestamp": 1778691652634,
+      "isObsidian": false
+    }
+  ],
+  [
+    "performance-testing-review-ai-review",
+    {
+      "timestamp": 1778691874388,
+      "isObsidian": false
+    }
+  ],
+  [
+    "performance-testing-review-multi-agent-review",
+    {
+      "timestamp": 1778691874385,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prompt-engineering-patterns",
+    {
+      "timestamp": 1778691837614,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prompt-engineering",
+    {
+      "timestamp": 1778691884953,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prompt-library",
+    {
+      "timestamp": 1778691884956,
+      "isObsidian": false
+    }
+  ],
+  [
+    "rag-engineer",
+    {
+      "timestamp": 1778691884971,
+      "isObsidian": false
+    }
+  ],
+  [
+    "rag-implementation",
+    {
+      "timestamp": 1778691884970,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sankhya-dashboard-html-jsp-custom-best-pratices",
+    {
+      "timestamp": 1778691885037,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shodan-reconnaissance",
+    {
+      "timestamp": 1778691885125,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-rails-upgrade",
+    {
+      "timestamp": 1778691885138,
+      "isObsidian": false
+    }
+  ],
+  [
+    "chrome-extension-developer",
+    {
+      "timestamp": 1778691855079,
+      "isObsidian": false
+    }
+  ],
+  [
+    "asana-automation",
+    {
+      "timestamp": 1778691850339,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Antigravity Skills Index",
+    {
+      "timestamp": 1778691652953,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Automation & Scrapers",
+    {
+      "timestamp": 1778691652954,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Business & Automation",
+    {
+      "timestamp": 1778691652954,
+      "isObsidian": false
+    }
+  ],
+  [
+    "recallmax",
+    {
+      "timestamp": 1778691884992,
+      "isObsidian": false
+    }
+  ],
+  [
+    "stability-ai",
+    {
+      "timestamp": 1778691837690,
+      "isObsidian": false
+    }
+  ],
+  [
+    "subagent-driven-development",
+    {
+      "timestamp": 1778691653585,
+      "isObsidian": false
+    }
+  ],
+  [
+    "supply-chain-risk-auditor",
+    {
+      "timestamp": 1778691885200,
+      "isObsidian": false
+    }
+  ],
+  [
+    "voice-agents",
+    {
+      "timestamp": 1778691885352,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vercel-ai-sdk-expert",
+    {
+      "timestamp": 1778691885338,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tailwind-patterns",
+    {
+      "timestamp": 1778691885210,
+      "isObsidian": false
+    }
+  ],
+  [
+    "voice-ai-development",
+    {
+      "timestamp": 1778691885355,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tailwind-design-system",
+    {
+      "timestamp": 1778691837698,
+      "isObsidian": false
+    }
+  ],
+  [
+    "voice-ai-engine-development",
+    {
+      "timestamp": 1778691653590,
+      "isObsidian": false
+    }
+  ],
+  [
+    "xss-html-injection",
+    {
+      "timestamp": 1778691885412,
+      "isObsidian": false
+    }
+  ],
+  [
+    "go-playwright",
+    {
+      "timestamp": 1778691829873,
+      "isObsidian": false
+    }
+  ],
+  [
+    "firecrawl-scraper",
+    {
+      "timestamp": 1778691860161,
+      "isObsidian": false
+    }
+  ],
+  [
+    "playwright-skill",
+    {
+      "timestamp": 1778691653593,
+      "isObsidian": false
+    }
+  ],
+  [
+    "web-scraper",
+    {
+      "timestamp": 1778691837750,
+      "isObsidian": false
+    }
+  ],
+  [
+    "x-twitter-scraper",
+    {
+      "timestamp": 1778691885411,
+      "isObsidian": false
+    }
+  ],
+  [
+    "amplitude-automation",
+    {
+      "timestamp": 1778691850301,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bamboohr-automation",
+    {
+      "timestamp": 1778691850625,
+      "isObsidian": false
+    }
+  ],
+  [
+    "basecamp-automation",
+    {
+      "timestamp": 1778691850627,
+      "isObsidian": false
+    }
+  ],
+  [
+    "billing-automation",
+    {
+      "timestamp": 1778691826009,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bitbucket-automation",
+    {
+      "timestamp": 1778691850653,
+      "isObsidian": false
+    }
+  ],
+  [
+    "box-automation",
+    {
+      "timestamp": 1778691850663,
+      "isObsidian": false
+    }
+  ],
+  [
+    "brevo-automation",
+    {
+      "timestamp": 1778691850667,
+      "isObsidian": false
+    }
+  ],
+  [
+    "browser-automation",
+    {
+      "timestamp": 1778691850669,
+      "isObsidian": false
+    }
+  ],
+  [
+    "business-analyst",
+    {
+      "timestamp": 1778691850696,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cal-com-automation",
+    {
+      "timestamp": 1778691850709,
+      "isObsidian": false
+    }
+  ],
+  [
+    "calendly-automation",
+    {
+      "timestamp": 1778691850703,
+      "isObsidian": false
+    }
+  ],
+  [
+    "canva-automation",
+    {
+      "timestamp": 1778691850707,
+      "isObsidian": false
+    }
+  ],
+  [
+    "circleci-automation",
+    {
+      "timestamp": 1778691855081,
+      "isObsidian": false
+    }
+  ],
+  [
+    "clickup-automation",
+    {
+      "timestamp": 1778691855108,
+      "isObsidian": false
+    }
+  ],
+  [
+    "changelog-automation",
+    {
+      "timestamp": 1778691827570,
+      "isObsidian": false
+    }
+  ],
+  [
+    "discord-automation",
+    {
+      "timestamp": 1778691855294,
+      "isObsidian": false
+    }
+  ],
+  [
+    "coda-automation",
+    {
+      "timestamp": 1778691855118,
+      "isObsidian": false
+    }
+  ],
+  [
+    "close-automation",
+    {
+      "timestamp": 1778691855109,
+      "isObsidian": false
+    }
+  ],
+  [
+    "docusign-automation",
+    {
+      "timestamp": 1778691855319,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dropbox-automation",
+    {
+      "timestamp": 1778691860021,
+      "isObsidian": false
+    }
+  ],
+  [
+    "convertkit-automation",
+    {
+      "timestamp": 1778691855190,
+      "isObsidian": false
+    }
+  ],
+  [
+    "confluence-automation",
+    {
+      "timestamp": 1778691855168,
+      "isObsidian": false
+    }
+  ],
+  [
+    "freshdesk-automation",
+    {
+      "timestamp": 1778691860231,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-calendar-automation",
+    {
+      "timestamp": 1778691860316,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-docs-automation",
+    {
+      "timestamp": 1778691860326,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-drive-automation",
+    {
+      "timestamp": 1778691860331,
+      "isObsidian": false
+    }
+  ],
+  [
+    "freshservice-automation",
+    {
+      "timestamp": 1778691860234,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-slides-automation",
+    {
+      "timestamp": 1778691860337,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-sheets-automation",
+    {
+      "timestamp": 1778691860334,
+      "isObsidian": false
+    }
+  ],
+  [
+    "helpdesk-automation",
+    {
+      "timestamp": 1778691860358,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hubspot-automation",
+    {
+      "timestamp": 1778691866570,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hubspot-integration",
+    {
+      "timestamp": 1778691866573,
+      "isObsidian": false
+    }
+  ],
+  [
+    "googlesheets-automation",
+    {
+      "timestamp": 1778691860340,
+      "isObsidian": false
+    }
+  ],
+  [
+    "instagram-automation",
+    {
+      "timestamp": 1778691866629,
+      "isObsidian": false
+    }
+  ],
+  [
+    "intercom-automation",
+    {
+      "timestamp": 1778691866640,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linear-automation",
+    {
+      "timestamp": 1778691866725,
+      "isObsidian": false
+    }
+  ],
+  [
+    "jira-automation",
+    {
+      "timestamp": 1778691866666,
+      "isObsidian": false
+    }
+  ],
+  [
+    "klaviyo-automation",
+    {
+      "timestamp": 1778691866685,
+      "isObsidian": false
+    }
+  ],
+  [
+    "local-legal-seo-audit",
+    {
+      "timestamp": 1778691866755,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linkedin-automation",
+    {
+      "timestamp": 1778691866729,
+      "isObsidian": false
+    }
+  ],
+  [
+    "make-automation",
+    {
+      "timestamp": 1778691873899,
+      "isObsidian": false
+    }
+  ],
+  [
+    "marketing-ideas",
+    {
+      "timestamp": 1778691873945,
+      "isObsidian": false
+    }
+  ],
+  [
+    "marketing-psychology",
+    {
+      "timestamp": 1778691873947,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linear-claude-skill",
+    {
+      "timestamp": 1778691866732,
+      "isObsidian": false
+    }
+  ],
+  [
+    "micro-saas-launcher",
+    {
+      "timestamp": 1778691873993,
+      "isObsidian": false
+    }
+  ],
+  [
+    "miro-automation",
+    {
+      "timestamp": 1778691874010,
+      "isObsidian": false
+    }
+  ],
+  [
+    "notion-automation",
+    {
+      "timestamp": 1778691874224,
+      "isObsidian": false
+    }
+  ],
+  [
+    "monday-automation",
+    {
+      "timestamp": 1778691874039,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mixpanel-automation",
+    {
+      "timestamp": 1778691874013,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-shopify-integration",
+    {
+      "timestamp": 1778691874312,
+      "isObsidian": false
+    }
+  ],
+  [
+    "notion-template-business",
+    {
+      "timestamp": 1778691874221,
+      "isObsidian": false
+    }
+  ],
+  [
+    "onboarding-cro",
+    {
+      "timestamp": 1778691874331,
+      "isObsidian": false
+    }
+  ],
+  [
+    "microsoft-teams-automation",
+    {
+      "timestamp": 1778691874005,
+      "isObsidian": false
+    }
+  ],
+  [
+    "one-drive-automation",
+    {
+      "timestamp": 1778691874335,
+      "isObsidian": false
+    }
+  ],
+  [
+    "outlook-calendar-automation",
+    {
+      "timestamp": 1778691874346,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pagerduty-automation",
+    {
+      "timestamp": 1778691874349,
+      "isObsidian": false
+    }
+  ],
+  [
+    "paywall-upgrade-cro",
+    {
+      "timestamp": 1778691874375,
+      "isObsidian": false
+    }
+  ],
+  [
+    "page-cro",
+    {
+      "timestamp": 1778691874351,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pipedrive-automation",
+    {
+      "timestamp": 1778691874403,
+      "isObsidian": false
+    }
+  ],
+  [
+    "popup-cro",
+    {
+      "timestamp": 1778691874414,
+      "isObsidian": false
+    }
+  ],
+  [
+    "outlook-automation",
+    {
+      "timestamp": 1778691874343,
+      "isObsidian": false
+    }
+  ],
+  [
+    "posthog-automation",
+    {
+      "timestamp": 1778691874427,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pricing-strategy",
+    {
+      "timestamp": 1778691874442,
+      "isObsidian": false
+    }
+  ],
+  [
+    "render-automation",
+    {
+      "timestamp": 1778691885006,
+      "isObsidian": false
+    }
+  ],
+  [
+    "programmatic-seo",
+    {
+      "timestamp": 1778691884944,
+      "isObsidian": false
+    }
+  ],
+  [
+    "postmark-automation",
+    {
+      "timestamp": 1778691874430,
+      "isObsidian": false
+    }
+  ],
+  [
+    "salesforce-development",
+    {
+      "timestamp": 1778691885031,
+      "isObsidian": false
+    }
+  ],
+  [
+    "salesforce-automation",
+    {
+      "timestamp": 1778691885029,
+      "isObsidian": false
+    }
+  ],
+  [
+    "reddit-automation",
+    {
+      "timestamp": 1778691884999,
+      "isObsidian": false
+    }
+  ],
+  [
+    "scroll-experience",
+    {
+      "timestamp": 1778691885057,
+      "isObsidian": false
+    }
+  ],
+  [
+    "segment-automation",
+    {
+      "timestamp": 1778691885074,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sendgrid-automation",
+    {
+      "timestamp": 1778691885081,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-audit",
+    {
+      "timestamp": 1778691885090,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sentry-automation",
+    {
+      "timestamp": 1778691885079,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-cannibalization-detector",
+    {
+      "timestamp": 1778691885093,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-content-auditor",
+    {
+      "timestamp": 1778691885102,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-content-planner",
+    {
+      "timestamp": 1778691885091,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-content-refresher",
+    {
+      "timestamp": 1778691885100,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-content-writer",
+    {
+      "timestamp": 1778691885097,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-fundamentals",
+    {
+      "timestamp": 1778691837665,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-keyword-strategist",
+    {
+      "timestamp": 1778691885104,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-forensic-incident-response",
+    {
+      "timestamp": 1778691885098,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-meta-optimizer",
+    {
+      "timestamp": 1778691885106,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-snippet-hunter",
+    {
+      "timestamp": 1778691885109,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-structure-architect",
+    {
+      "timestamp": 1778691885107,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shopify-apps",
+    {
+      "timestamp": 1778691885128,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shopify-automation",
+    {
+      "timestamp": 1778691885127,
+      "isObsidian": false
+    }
+  ],
+  [
+    "signup-flow-cro",
+    {
+      "timestamp": 1778691885131,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shopify-development",
+    {
+      "timestamp": 1778691670135,
+      "isObsidian": false
+    }
+  ],
+  [
+    "slack-automation",
+    {
+      "timestamp": 1778691885143,
+      "isObsidian": false
+    }
+  ],
+  [
+    "square-automation",
+    {
+      "timestamp": 1778691885172,
+      "isObsidian": false
+    }
+  ],
+  [
+    "startup-business-analyst-financial-projections",
+    {
+      "timestamp": 1778691885183,
+      "isObsidian": false
+    }
+  ],
+  [
+    "supabase-automation",
+    {
+      "timestamp": 1778691885198,
+      "isObsidian": false
+    }
+  ],
+  [
+    "stripe-automation",
+    {
+      "timestamp": 1778691885194,
+      "isObsidian": false
+    }
+  ],
+  [
+    "startup-business-analyst-market-opportunity",
+    {
+      "timestamp": 1778691885185,
+      "isObsidian": false
+    }
+  ],
+  [
+    "startup-business-analyst-business-case",
+    {
+      "timestamp": 1778691885179,
+      "isObsidian": false
+    }
+  ],
+  [
+    "todoist-automation",
+    {
+      "timestamp": 1778691885278,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tiktok-automation",
+    {
+      "timestamp": 1778691885280,
+      "isObsidian": false
+    }
+  ],
+  [
+    "telegram-automation",
+    {
+      "timestamp": 1778691885226,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vercel-automation",
+    {
+      "timestamp": 1778691885333,
+      "isObsidian": false
+    }
+  ],
+  [
+    "webflow-automation",
+    {
+      "timestamp": 1778691885366,
+      "isObsidian": false
+    }
+  ],
+  [
+    "whatsapp-automation",
+    {
+      "timestamp": 1778691885372,
+      "isObsidian": false
+    }
+  ],
+  [
+    "aws-cost-cleanup",
+    {
+      "timestamp": 1778691850358,
+      "isObsidian": false
+    }
+  ],
+  [
+    "twitter-automation",
+    {
+      "timestamp": 1778691885299,
+      "isObsidian": false
+    }
+  ],
+  [
+    "workflow-automation",
+    {
+      "timestamp": 1778691885406,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wrike-automation",
+    {
+      "timestamp": 1778691885407,
+      "isObsidian": false
+    }
+  ],
+  [
+    "youtube-automation",
+    {
+      "timestamp": 1778691885421,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zendesk-automation",
+    {
+      "timestamp": 1778691885433,
+      "isObsidian": false
+    }
+  ],
+  [
+    "trello-automation",
+    {
+      "timestamp": 1778691885290,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zoho-crm-automation",
+    {
+      "timestamp": 1778691885431,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zoom-automation",
+    {
+      "timestamp": 1778691885435,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Cloud & Infrastructure",
+    {
+      "timestamp": 1778691670159,
+      "isObsidian": false
+    }
+  ],
+  [
+    "analytics-product",
+    {
+      "timestamp": 1778691850299,
+      "isObsidian": false
+    }
+  ],
+  [
+    "10-andruia-skill-smith",
+    {
+      "timestamp": 1778691850236,
+      "isObsidian": false
+    }
+  ],
+  [
+    "007",
+    {
+      "timestamp": 1778691825854,
+      "isObsidian": false
+    }
+  ],
+  [
+    "aws-serverless",
+    {
+      "timestamp": 1778691850363,
+      "isObsidian": false
+    }
+  ],
+  [
+    "aws-cost-optimizer",
+    {
+      "timestamp": 1778691850359,
+      "isObsidian": false
+    }
+  ],
+  [
+    "aws-skills",
+    {
+      "timestamp": 1778691850362,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azd-deployment",
+    {
+      "timestamp": 1778691850367,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-appconfiguration-java",
+    {
+      "timestamp": 1778691850437,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-appconfiguration-py",
+    {
+      "timestamp": 1778691850439,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-appconfiguration-ts",
+    {
+      "timestamp": 1778691850442,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-communication-callautomation-java",
+    {
+      "timestamp": 1778691850444,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-communication-chat-java",
+    {
+      "timestamp": 1778691850448,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-communication-common-java",
+    {
+      "timestamp": 1778691850451,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-communication-sms-java",
+    {
+      "timestamp": 1778691850454,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-communication-callingserver-java",
+    {
+      "timestamp": 1778691850446,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-cosmos-db-py",
+    {
+      "timestamp": 1778691850461,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-compute-batch-java",
+    {
+      "timestamp": 1778691850457,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-cosmos-java",
+    {
+      "timestamp": 1778691850467,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-cosmos-rust",
+    {
+      "timestamp": 1778691850463,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-cosmos-ts",
+    {
+      "timestamp": 1778691850469,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-data-tables-java",
+    {
+      "timestamp": 1778691850471,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-cosmos-py",
+    {
+      "timestamp": 1778691850465,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-data-tables-py",
+    {
+      "timestamp": 1778691850473,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventgrid-dotnet",
+    {
+      "timestamp": 1778691850475,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventgrid-java",
+    {
+      "timestamp": 1778691850477,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventhub-dotnet",
+    {
+      "timestamp": 1778691850480,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventgrid-py",
+    {
+      "timestamp": 1778691850479,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventhub-py",
+    {
+      "timestamp": 1778691850482,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventhub-java",
+    {
+      "timestamp": 1778691850486,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventhub-rust",
+    {
+      "timestamp": 1778691850484,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-eventhub-ts",
+    {
+      "timestamp": 1778691850488,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-functions",
+    {
+      "timestamp": 1778691850492,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-identity-dotnet",
+    {
+      "timestamp": 1778691850490,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-identity-java",
+    {
+      "timestamp": 1778691850493,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-identity-py",
+    {
+      "timestamp": 1778691850496,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-identity-rust",
+    {
+      "timestamp": 1778691850497,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-identity-ts",
+    {
+      "timestamp": 1778691850499,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-keyvault-certificates-rust",
+    {
+      "timestamp": 1778691850501,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-keyvault-keys-ts",
+    {
+      "timestamp": 1778691850503,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-keyvault-keys-rust",
+    {
+      "timestamp": 1778691850513,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-keyvault-py",
+    {
+      "timestamp": 1778691850510,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-keyvault-secrets-rust",
+    {
+      "timestamp": 1778691850506,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-keyvault-secrets-ts",
+    {
+      "timestamp": 1778691850508,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-maps-search-dotnet",
+    {
+      "timestamp": 1778691850512,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-messaging-webpubsub-java",
+    {
+      "timestamp": 1778691850519,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-messaging-webpubsubservice-py",
+    {
+      "timestamp": 1778691850515,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-applicationinsights-dotnet",
+    {
+      "timestamp": 1778691850529,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-botservice-dotnet",
+    {
+      "timestamp": 1778691850533,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-fabric-dotnet",
+    {
+      "timestamp": 1778691850537,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-botservice-py",
+    {
+      "timestamp": 1778691850535,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-fabric-py",
+    {
+      "timestamp": 1778691850539,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-weightsandbiases-dotnet",
+    {
+      "timestamp": 1778691850543,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-ingestion-java",
+    {
+      "timestamp": 1778691850546,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-mongodbatlas-dotnet",
+    {
+      "timestamp": 1778691850541,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-ingestion-py",
+    {
+      "timestamp": 1778691850548,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-opentelemetry-exporter-java",
+    {
+      "timestamp": 1778691850550,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-opentelemetry-py",
+    {
+      "timestamp": 1778691850553,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-opentelemetry-ts",
+    {
+      "timestamp": 1778691850555,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-opentelemetry-exporter-py",
+    {
+      "timestamp": 1778691850551,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-query-java",
+    {
+      "timestamp": 1778691850557,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-postgres-ts",
+    {
+      "timestamp": 1778691850560,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-monitor-query-py",
+    {
+      "timestamp": 1778691850561,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-cosmosdb-dotnet",
+    {
+      "timestamp": 1778691850563,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-durabletask-dotnet",
+    {
+      "timestamp": 1778691850567,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-mysql-dotnet",
+    {
+      "timestamp": 1778691850565,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-playwright-dotnet",
+    {
+      "timestamp": 1778691850569,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-postgresql-dotnet",
+    {
+      "timestamp": 1778691850571,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-redis-dotnet",
+    {
+      "timestamp": 1778691850573,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-resource-manager-sql-dotnet",
+    {
+      "timestamp": 1778691850576,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-search-documents-dotnet",
+    {
+      "timestamp": 1778691850578,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-search-documents-ts",
+    {
+      "timestamp": 1778691850581,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-search-documents-py",
+    {
+      "timestamp": 1778691850579,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-security-keyvault-keys-dotnet",
+    {
+      "timestamp": 1778691850583,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-security-keyvault-keys-java",
+    {
+      "timestamp": 1778691850585,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-servicebus-dotnet",
+    {
+      "timestamp": 1778691850589,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-security-keyvault-secrets-java",
+    {
+      "timestamp": 1778691850587,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-servicebus-ts",
+    {
+      "timestamp": 1778691850596,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-servicebus-py",
+    {
+      "timestamp": 1778691850591,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-web-pubsub-ts",
+    {
+      "timestamp": 1778691850618,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloud-architect",
+    {
+      "timestamp": 1778691855114,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloud-run-basics",
+    {
+      "timestamp": 1778691827596,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloud-sql-basics",
+    {
+      "timestamp": 1778691827598,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloudflare-workers-expert",
+    {
+      "timestamp": 1778691855116,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloudformation-best-practices",
+    {
+      "timestamp": 1778691855122,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-cloud-optimization-cost-optimize",
+    {
+      "timestamp": 1778691827668,
+      "isObsidian": false
+    }
+  ],
+  [
+    "deployment-engineer",
+    {
+      "timestamp": 1778691855270,
+      "isObsidian": false
+    }
+  ],
+  [
+    "deployment-procedures",
+    {
+      "timestamp": 1778691855275,
+      "isObsidian": false
+    }
+  ],
+  [
+    "deployment-validation-config-validate",
+    {
+      "timestamp": 1778691855277,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-deployment",
+    {
+      "timestamp": 1778691860093,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gcp-cloud-run",
+    {
+      "timestamp": 1778691860256,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-cloud-recipe-auth",
+    {
+      "timestamp": 1778691860319,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-cloud-recipe-networking-observability",
+    {
+      "timestamp": 1778691829909,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-cloud-recipe-onboarding",
+    {
+      "timestamp": 1778691829913,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-cloud-waf-cost-optimization",
+    {
+      "timestamp": 1778691860322,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-cloud-waf-reliability",
+    {
+      "timestamp": 1778691860324,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-cloud-waf-security",
+    {
+      "timestamp": 1778691860329,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hybrid-cloud-architect",
+    {
+      "timestamp": 1778691866593,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hybrid-cloud-networking",
+    {
+      "timestamp": 1778691866598,
+      "isObsidian": false
+    }
+  ],
+  [
+    "laravel-security-audit",
+    {
+      "timestamp": 1778691866706,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-deployment",
+    {
+      "timestamp": 1778691873907,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-audit",
+    {
+      "timestamp": 1778691885063,
+      "isObsidian": false
+    }
+  ],
+  [
+    "microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+    {
+      "timestamp": 1778691873996,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-auditor",
+    {
+      "timestamp": 1778691885066,
+      "isObsidian": false
+    }
+  ],
+  [
+    "terraform-aws-modules",
+    {
+      "timestamp": 1778691885237,
+      "isObsidian": false
+    }
+  ],
+  [
+    "terraform-module-library",
+    {
+      "timestamp": 1778691837717,
+      "isObsidian": false
+    }
+  ],
+  [
+    "terraform-infrastructure",
+    {
+      "timestamp": 1778691885239,
+      "isObsidian": false
+    }
+  ],
+  [
+    "terraform-skill",
+    {
+      "timestamp": 1778691885248,
+      "isObsidian": false
+    }
+  ],
+  [
+    "terraform-specialist",
+    {
+      "timestamp": 1778691885246,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vercel-deployment",
+    {
+      "timestamp": 1778691885335,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Data & Database",
+    {
+      "timestamp": 1778691680516,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Frontend & UI-UX",
+    {
+      "timestamp": 1778691680517,
+      "isObsidian": false
+    }
+  ],
+  [
+    "General & Miscellaneous",
+    {
+      "timestamp": 1778691680518,
+      "isObsidian": false
+    }
+  ],
+  [
+    "analytics-tracking",
+    {
+      "timestamp": 1778691850303,
+      "isObsidian": false
+    }
+  ],
+  [
+    "application-performance-performance-optimization",
+    {
+      "timestamp": 1778691850328,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bigquery-basics",
+    {
+      "timestamp": 1778691826013,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-engineer",
+    {
+      "timestamp": 1778691855227,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-engineering-data-driven-feature",
+    {
+      "timestamp": 1778691855230,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-scientist",
+    {
+      "timestamp": 1778691855239,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-quality-frameworks",
+    {
+      "timestamp": 1778691827666,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-storytelling",
+    {
+      "timestamp": 1778691855236,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-engineering-data-pipeline",
+    {
+      "timestamp": 1778691855232,
+      "isObsidian": false
+    }
+  ],
+  [
+    "data-structure-protocol",
+    {
+      "timestamp": 1778691855240,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-migrations-migration-observability",
+    {
+      "timestamp": 1778691855253,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-migrations-sql-migrations",
+    {
+      "timestamp": 1778691827671,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-architect",
+    {
+      "timestamp": 1778691855244,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-optimizer",
+    {
+      "timestamp": 1778691855249,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database",
+    {
+      "timestamp": 1778691855246,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-migration",
+    {
+      "timestamp": 1778691855247,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-admin",
+    {
+      "timestamp": 1778691855242,
+      "isObsidian": false
+    }
+  ],
+  [
+    "datadog-automation",
+    {
+      "timestamp": 1778691855251,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fixing-metadata",
+    {
+      "timestamp": 1778691860175,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fal-platform",
+    {
+      "timestamp": 1778691860116,
+      "isObsidian": false
+    }
+  ],
+  [
+    "drizzle-orm-expert",
+    {
+      "timestamp": 1778691860018,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-data-transforms",
+    {
+      "timestamp": 1778691860192,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gdpr-data-handling",
+    {
+      "timestamp": 1778691829849,
+      "isObsidian": false
+    }
+  ],
+  [
+    "google-analytics-automation",
+    {
+      "timestamp": 1778691860314,
+      "isObsidian": false
+    }
+  ],
+  [
+    "form-cro",
+    {
+      "timestamp": 1778691860183,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-platform",
+    {
+      "timestamp": 1778691873916,
+      "isObsidian": false
+    }
+  ],
+  [
+    "food-database-query",
+    {
+      "timestamp": 1778691860180,
+      "isObsidian": false
+    }
+  ],
+  [
+    "multi-platform-apps-multi-platform",
+    {
+      "timestamp": 1778691874098,
+      "isObsidian": false
+    }
+  ],
+  [
+    "native-data-fetching",
+    {
+      "timestamp": 1778691874148,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-performance-tuner",
+    {
+      "timestamp": 1778691874294,
+      "isObsidian": false
+    }
+  ],
+  [
+    "performance-engineer",
+    {
+      "timestamp": 1778691874383,
+      "isObsidian": false
+    }
+  ],
+  [
+    "neon-postgres",
+    {
+      "timestamp": 1778691874173,
+      "isObsidian": false
+    }
+  ],
+  [
+    "performance-optimizer",
+    {
+      "timestamp": 1778691874380,
+      "isObsidian": false
+    }
+  ],
+  [
+    "performance-profiling",
+    {
+      "timestamp": 1778691835199,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nosql-expert",
+    {
+      "timestamp": 1778691874210,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-orm-expert",
+    {
+      "timestamp": 1778691874268,
+      "isObsidian": false
+    }
+  ],
+  [
+    "postgres-best-practices",
+    {
+      "timestamp": 1778691682997,
+      "isObsidian": false
+    }
+  ],
+  [
+    "postgresql",
+    {
+      "timestamp": 1778691874421,
+      "isObsidian": false
+    }
+  ],
+  [
+    "postgresql-optimization",
+    {
+      "timestamp": 1778691874424,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pubmed-database",
+    {
+      "timestamp": 1778691884954,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-performance-optimization",
+    {
+      "timestamp": 1778691837621,
+      "isObsidian": false
+    }
+  ],
+  [
+    "quality-nonconformance",
+    {
+      "timestamp": 1778691837623,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sql-pro",
+    {
+      "timestamp": 1778691885169,
+      "isObsidian": false
+    }
+  ],
+  [
+    "uniprot-database",
+    {
+      "timestamp": 1778691885310,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vector-database-engineer",
+    {
+      "timestamp": 1778691885331,
+      "isObsidian": false
+    }
+  ],
+  [
+    "spark-optimization",
+    {
+      "timestamp": 1778691885159,
+      "isObsidian": false
+    }
+  ],
+  [
+    "web-performance-optimization",
+    {
+      "timestamp": 1778691885361,
+      "isObsidian": false
+    }
+  ],
+  [
+    "00-andruia-consultant",
+    {
+      "timestamp": 1778691850232,
+      "isObsidian": false
+    }
+  ],
+  [
+    "20-andruia-niche-intelligence",
+    {
+      "timestamp": 1778691850234,
+      "isObsidian": false
+    }
+  ],
+  [
+    "android_ui_verification",
+    {
+      "timestamp": 1778691825889,
+      "isObsidian": false
+    }
+  ],
+  [
+    "angular-state-management",
+    {
+      "timestamp": 1778691683008,
+      "isObsidian": false
+    }
+  ],
+  [
+    "angular-migration",
+    {
+      "timestamp": 1778691850309,
+      "isObsidian": false
+    }
+  ],
+  [
+    "angular-best-practices",
+    {
+      "timestamp": 1778691683009,
+      "isObsidian": false
+    }
+  ],
+  [
+    "angular",
+    {
+      "timestamp": 1778691683010,
+      "isObsidian": false
+    }
+  ],
+  [
+    "animejs-animation",
+    {
+      "timestamp": 1778691850311,
+      "isObsidian": false
+    }
+  ],
+  [
+    "antigravity-design-expert",
+    {
+      "timestamp": 1778691850313,
+      "isObsidian": false
+    }
+  ],
+  [
+    "app-builder",
+    {
+      "timestamp": 1778691683012,
+      "isObsidian": false
+    }
+  ],
+  [
+    "audit-context-building",
+    {
+      "timestamp": 1778691850346,
+      "isObsidian": false
+    }
+  ],
+  [
+    "baseline-ui",
+    {
+      "timestamp": 1778691850629,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bazel-build-optimization",
+    {
+      "timestamp": 1778691850634,
+      "isObsidian": false
+    }
+  ],
+  [
+    "blog-writing-guide",
+    {
+      "timestamp": 1778691850661,
+      "isObsidian": false
+    }
+  ],
+  [
+    "brand-guidelines-anthropic",
+    {
+      "timestamp": 1778691683016,
+      "isObsidian": false
+    }
+  ],
+  [
+    "brand-guidelines-community",
+    {
+      "timestamp": 1778691683017,
+      "isObsidian": false
+    }
+  ],
+  [
+    "brand-guidelines",
+    {
+      "timestamp": 1778691850665,
+      "isObsidian": false
+    }
+  ],
+  [
+    "build",
+    {
+      "timestamp": 1778691850677,
+      "isObsidian": false
+    }
+  ],
+  [
+    "building-native-ui",
+    {
+      "timestamp": 1778691850679,
+      "isObsidian": false
+    }
+  ],
+  [
+    "burpsuite-project-parser",
+    {
+      "timestamp": 1778691850687,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-project-guidelines-example",
+    {
+      "timestamp": 1778691855063,
+      "isObsidian": false
+    }
+  ],
+  [
+    "canvas-design",
+    {
+      "timestamp": 1778691683022,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-code-guide",
+    {
+      "timestamp": 1778691855093,
+      "isObsidian": false
+    }
+  ],
+  [
+    "core-components",
+    {
+      "timestamp": 1778691855206,
+      "isObsidian": false
+    }
+  ],
+  [
+    "comfyui-gateway",
+    {
+      "timestamp": 1778691827624,
+      "isObsidian": false
+    }
+  ],
+  [
+    "browser-extension-builder",
+    {
+      "timestamp": 1778691850675,
+      "isObsidian": false
+    }
+  ],
+  [
+    "design-md",
+    {
+      "timestamp": 1778691855284,
+      "isObsidian": false
+    }
+  ],
+  [
+    "deployment-pipeline-design",
+    {
+      "timestamp": 1778691855272,
+      "isObsidian": false
+    }
+  ],
+  [
+    "database-design",
+    {
+      "timestamp": 1778691683028,
+      "isObsidian": false
+    }
+  ],
+  [
+    "design-orchestration",
+    {
+      "timestamp": 1778691855280,
+      "isObsidian": false
+    }
+  ],
+  [
+    "design-spells",
+    {
+      "timestamp": 1778691855282,
+      "isObsidian": false
+    }
+  ],
+  [
+    "environment-setup-guide",
+    {
+      "timestamp": 1778691860057,
+      "isObsidian": false
+    }
+  ],
+  [
+    "event-store-design",
+    {
+      "timestamp": 1778691829786,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-ui-jetpack-compose",
+    {
+      "timestamp": 1778691860101,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ddd-strategic-design",
+    {
+      "timestamp": 1778691827684,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-ui-swift-ui",
+    {
+      "timestamp": 1778691860103,
+      "isObsidian": false
+    }
+  ],
+  [
+    "figma-automation",
+    {
+      "timestamp": 1778691860141,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fixing-motion-performance",
+    {
+      "timestamp": 1778691860172,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-react",
+    {
+      "timestamp": 1778691860218,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-ts-react",
+    {
+      "timestamp": 1778691860220,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-design",
+    {
+      "timestamp": 1778691683038,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-dev-guidelines",
+    {
+      "timestamp": 1778691829844,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-developer",
+    {
+      "timestamp": 1778691860237,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-mobile-development-component-scaffold",
+    {
+      "timestamp": 1778691860241,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-mobile-security-xss-scan",
+    {
+      "timestamp": 1778691860244,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-slides",
+    {
+      "timestamp": 1778691683042,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-security-coder",
+    {
+      "timestamp": 1778691860247,
+      "isObsidian": false
+    }
+  ],
+  [
+    "frontend-ui-dark-ts",
+    {
+      "timestamp": 1778691860251,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-content",
+    {
+      "timestamp": 1778691829922,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-dialogs",
+    {
+      "timestamp": 1778691829939,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-controls",
+    {
+      "timestamp": 1778691829942,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-layout",
+    {
+      "timestamp": 1778691829944,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-menus",
+    {
+      "timestamp": 1778691829947,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-status",
+    {
+      "timestamp": 1778691829956,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-search",
+    {
+      "timestamp": 1778691829950,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-foundations",
+    {
+      "timestamp": 1778691829952,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-components-system",
+    {
+      "timestamp": 1778691829958,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-inputs",
+    {
+      "timestamp": 1778691829975,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-platforms",
+    {
+      "timestamp": 1778691829981,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-project-context",
+    {
+      "timestamp": 1778691860364,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-technologies",
+    {
+      "timestamp": 1778691829984,
+      "isObsidian": false
+    }
+  ],
+  [
+    "magic-ui-generator",
+    {
+      "timestamp": 1778691873888,
+      "isObsidian": false
+    }
+  ],
+  [
+    "kpi-dashboard-design",
+    {
+      "timestamp": 1778691866688,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mcp-builder-ms",
+    {
+      "timestamp": 1778691873949,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-animation",
+    {
+      "timestamp": 1778691873897,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mcp-builder",
+    {
+      "timestamp": 1778691683059,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mobile-design",
+    {
+      "timestamp": 1778691683060,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nextjs-best-practices",
+    {
+      "timestamp": 1778691874197,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nerdzao-elite-gemini-high",
+    {
+      "timestamp": 1778691874185,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nextjs-supabase-auth",
+    {
+      "timestamp": 1778691874214,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nextjs-react-expert",
+    {
+      "timestamp": 1778691683063,
+      "isObsidian": false
+    }
+  ],
+  [
+    "privacy-by-design",
+    {
+      "timestamp": 1778691683064,
+      "isObsidian": false
+    }
+  ],
+  [
+    "personal-tool-builder",
+    {
+      "timestamp": 1778691874395,
+      "isObsidian": false
+    }
+  ],
+  [
+    "radix-ui-design-system",
+    {
+      "timestamp": 1778691837628,
+      "isObsidian": false
+    }
+  ],
+  [
+    "product-design",
+    {
+      "timestamp": 1778691874449,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-best-practices",
+    {
+      "timestamp": 1778691683068,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-flow-architect",
+    {
+      "timestamp": 1778691884975,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-flow-node-ts",
+    {
+      "timestamp": 1778691884973,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-modernization",
+    {
+      "timestamp": 1778691837631,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-nextjs-development",
+    {
+      "timestamp": 1778691884985,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-state-management",
+    {
+      "timestamp": 1778691884987,
+      "isObsidian": false
+    }
+  ],
+  [
+    "remotion-best-practices",
+    {
+      "timestamp": 1778691837635,
+      "isObsidian": false
+    }
+  ],
+  [
+    "reference-builder",
+    {
+      "timestamp": 1778691885000,
+      "isObsidian": false
+    }
+  ],
+  [
+    "remotion",
+    {
+      "timestamp": 1778691885008,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-bluebook-builder",
+    {
+      "timestamp": 1778691885061,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-requirement-extraction",
+    {
+      "timestamp": 1778691837653,
+      "isObsidian": false
+    }
+  ],
+  [
+    "senior-frontend",
+    {
+      "timestamp": 1778691837663,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seo-authority-builder",
+    {
+      "timestamp": 1778691885095,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shadcn",
+    {
+      "timestamp": 1778691683079,
+      "isObsidian": false
+    }
+  ],
+  [
+    "slack-bot-builder",
+    {
+      "timestamp": 1778691885151,
+      "isObsidian": false
+    }
+  ],
+  [
+    "stitch-ui-design",
+    {
+      "timestamp": 1778691683081,
+      "isObsidian": false
+    }
+  ],
+  [
+    "swiftui-expert-skill",
+    {
+      "timestamp": 1778691885204,
+      "isObsidian": false
+    }
+  ],
+  [
+    "telegram-bot-builder",
+    {
+      "timestamp": 1778691885227,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-animation",
+    {
+      "timestamp": 1778691885260,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tool-design",
+    {
+      "timestamp": 1778691885283,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ui-ux-designer",
+    {
+      "timestamp": 1778691885303,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ui-skills",
+    {
+      "timestamp": 1778691885305,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ui-ux-pro-max",
+    {
+      "timestamp": 1778691837734,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ui-visual-validator",
+    {
+      "timestamp": 1778691885308,
+      "isObsidian": false
+    }
+  ],
+  [
+    "viral-generator-builder",
+    {
+      "timestamp": 1778691885347,
+      "isObsidian": false
+    }
+  ],
+  [
+    "web-artifacts-builder",
+    {
+      "timestamp": 1778691683091,
+      "isObsidian": false
+    }
+  ],
+  [
+    "web-design-guidelines",
+    {
+      "timestamp": 1778691885359,
+      "isObsidian": false
+    }
+  ],
+  [
+    "3d-web-experience",
+    {
+      "timestamp": 1778691850239,
+      "isObsidian": false
+    }
+  ],
+  [
+    "acceptance-orchestrator",
+    {
+      "timestamp": 1778691850241,
+      "isObsidian": false
+    }
+  ],
+  [
+    "advogado-criminal",
+    {
+      "timestamp": 1778691850247,
+      "isObsidian": false
+    }
+  ],
+  [
+    "active-directory-attacks",
+    {
+      "timestamp": 1778691825863,
+      "isObsidian": false
+    }
+  ],
+  [
+    "advogado-especialista",
+    {
+      "timestamp": 1778691825869,
+      "isObsidian": false
+    }
+  ],
+  [
+    "advanced-evaluation",
+    {
+      "timestamp": 1778691850244,
+      "isObsidian": false
+    }
+  ],
+  [
+    "algolia-search",
+    {
+      "timestamp": 1778691850293,
+      "isObsidian": false
+    }
+  ],
+  [
+    "algorithmic-art",
+    {
+      "timestamp": 1778691683099,
+      "isObsidian": false
+    }
+  ],
+  [
+    "alloydb-basics",
+    {
+      "timestamp": 1778691825883,
+      "isObsidian": false
+    }
+  ],
+  [
+    "amazon-alexa",
+    {
+      "timestamp": 1778691850296,
+      "isObsidian": false
+    }
+  ],
+  [
+    "analyze-project",
+    {
+      "timestamp": 1778691825886,
+      "isObsidian": false
+    }
+  ],
+  [
+    "andrej-karpathy",
+    {
+      "timestamp": 1778691850305,
+      "isObsidian": false
+    }
+  ],
+  [
+    "alpha-vantage",
+    {
+      "timestamp": 1778691850295,
+      "isObsidian": false
+    }
+  ],
+  [
+    "anti-reversing-techniques",
+    {
+      "timestamp": 1778691825899,
+      "isObsidian": false
+    }
+  ],
+  [
+    "antigravity-skill-orchestrator",
+    {
+      "timestamp": 1778691683105,
+      "isObsidian": false
+    }
+  ],
+  [
+    "antigravity-workflows",
+    {
+      "timestamp": 1778691825902,
+      "isObsidian": false
+    }
+  ],
+  [
+    "app-store-optimization",
+    {
+      "timestamp": 1778691683107,
+      "isObsidian": false
+    }
+  ],
+  [
+    "appdeploy",
+    {
+      "timestamp": 1778691850332,
+      "isObsidian": false
+    }
+  ],
+  [
+    "arm-cortex-expert",
+    {
+      "timestamp": 1778691850337,
+      "isObsidian": false
+    }
+  ],
+  [
+    "architect-review",
+    {
+      "timestamp": 1778691850330,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ask-questions-if-underspecified",
+    {
+      "timestamp": 1778691850341,
+      "isObsidian": false
+    }
+  ],
+  [
+    "astropy",
+    {
+      "timestamp": 1778691850343,
+      "isObsidian": false
+    }
+  ],
+  [
+    "audio-transcriber",
+    {
+      "timestamp": 1778691683112,
+      "isObsidian": false
+    }
+  ],
+  [
+    "attack-tree-construction",
+    {
+      "timestamp": 1778691825963,
+      "isObsidian": false
+    }
+  ],
+  [
+    "auri-core",
+    {
+      "timestamp": 1778691850352,
+      "isObsidian": false
+    }
+  ],
+  [
+    "avalonia-layout-zafiro",
+    {
+      "timestamp": 1778691683115,
+      "isObsidian": false
+    }
+  ],
+  [
+    "avalonia-viewmodels-zafiro",
+    {
+      "timestamp": 1778691683116,
+      "isObsidian": false
+    }
+  ],
+  [
+    "avalonia-zafiro-development",
+    {
+      "timestamp": 1778691683117,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bdi-mental-states",
+    {
+      "timestamp": 1778691850636,
+      "isObsidian": false
+    }
+  ],
+  [
+    "beautiful-prose",
+    {
+      "timestamp": 1778691850640,
+      "isObsidian": false
+    }
+  ],
+  [
+    "behavioral-modes",
+    {
+      "timestamp": 1778691850641,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bevy-ecs-expert",
+    {
+      "timestamp": 1778691850643,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bill-gates",
+    {
+      "timestamp": 1778691850647,
+      "isObsidian": false
+    }
+  ],
+  [
+    "blockrun",
+    {
+      "timestamp": 1778691850657,
+      "isObsidian": false
+    }
+  ],
+  [
+    "broken-authentication",
+    {
+      "timestamp": 1778691850671,
+      "isObsidian": false
+    }
+  ],
+  [
+    "blueprint",
+    {
+      "timestamp": 1778691850659,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bug-hunter",
+    {
+      "timestamp": 1778691683126,
+      "isObsidian": false
+    }
+  ],
+  [
+    "busybox-on-windows",
+    {
+      "timestamp": 1778691850689,
+      "isObsidian": false
+    }
+  ],
+  [
+    "c4-component",
+    {
+      "timestamp": 1778691850699,
+      "isObsidian": false
+    }
+  ],
+  [
+    "c4-context",
+    {
+      "timestamp": 1778691850705,
+      "isObsidian": false
+    }
+  ],
+  [
+    "c4-code",
+    {
+      "timestamp": 1778691850697,
+      "isObsidian": false
+    }
+  ],
+  [
+    "carrier-relationship-management",
+    {
+      "timestamp": 1778691827567,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-clickhouse-io",
+    {
+      "timestamp": 1778691855060,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-coding-standards",
+    {
+      "timestamp": 1778691855058,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-continuous-learning",
+    {
+      "timestamp": 1778691683133,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-strategic-compact",
+    {
+      "timestamp": 1778691855071,
+      "isObsidian": false
+    }
+  ],
+  [
+    "chat-widget",
+    {
+      "timestamp": 1778691855076,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cirq",
+    {
+      "timestamp": 1778691855084,
+      "isObsidian": false
+    }
+  ],
+  [
+    "citation-management",
+    {
+      "timestamp": 1778691855083,
+      "isObsidian": false
+    }
+  ],
+  [
+    "clarity-gate",
+    {
+      "timestamp": 1778691855088,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-ally-health",
+    {
+      "timestamp": 1778691855092,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-code-expert",
+    {
+      "timestamp": 1778691855090,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-d3js-skill",
+    {
+      "timestamp": 1778691827582,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-in-chrome-troubleshooting",
+    {
+      "timestamp": 1778691855095,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-monitor",
+    {
+      "timestamp": 1778691827585,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-scientific-skills",
+    {
+      "timestamp": 1778691855097,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-speed-reader",
+    {
+      "timestamp": 1778691855098,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-win11-speckit-update-skill",
+    {
+      "timestamp": 1778691855100,
+      "isObsidian": false
+    }
+  ],
+  [
+    "clerk-auth",
+    {
+      "timestamp": 1778691855106,
+      "isObsidian": false
+    }
+  ],
+  [
+    "closed-loop-delivery",
+    {
+      "timestamp": 1778691855111,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-documentation-doc-generate",
+    {
+      "timestamp": 1778691827604,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-review-checklist",
+    {
+      "timestamp": 1778691855127,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-review-excellence",
+    {
+      "timestamp": 1778691827609,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-reviewer",
+    {
+      "timestamp": 1778691855129,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-simplifier",
+    {
+      "timestamp": 1778691855132,
+      "isObsidian": false
+    }
+  ],
+  [
+    "codebase-cleanup-tech-debt",
+    {
+      "timestamp": 1778691855136,
+      "isObsidian": false
+    }
+  ],
+  [
+    "codex-review",
+    {
+      "timestamp": 1778691855138,
+      "isObsidian": false
+    }
+  ],
+  [
+    "commit",
+    {
+      "timestamp": 1778691855139,
+      "isObsidian": false
+    }
+  ],
+  [
+    "competitive-landscape",
+    {
+      "timestamp": 1778691827627,
+      "isObsidian": false
+    }
+  ],
+  [
+    "competitor-alternatives",
+    {
+      "timestamp": 1778691855141,
+      "isObsidian": false
+    }
+  ],
+  [
+    "comprehensive-review-full-review",
+    {
+      "timestamp": 1778691855143,
+      "isObsidian": false
+    }
+  ],
+  [
+    "comprehensive-review-pr-enhance",
+    {
+      "timestamp": 1778691827629,
+      "isObsidian": false
+    }
+  ],
+  [
+    "concise-planning",
+    {
+      "timestamp": 1778691855149,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-implement",
+    {
+      "timestamp": 1778691855152,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-manage",
+    {
+      "timestamp": 1778691827631,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-new-track",
+    {
+      "timestamp": 1778691855154,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-revert",
+    {
+      "timestamp": 1778691855156,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-setup",
+    {
+      "timestamp": 1778691855159,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-status",
+    {
+      "timestamp": 1778691855160,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conductor-validator",
+    {
+      "timestamp": 1778691855162,
+      "isObsidian": false
+    }
+  ],
+  [
+    "constant-time-analysis",
+    {
+      "timestamp": 1778691855165,
+      "isObsidian": false
+    }
+  ],
+  [
+    "content-creator",
+    {
+      "timestamp": 1778691827634,
+      "isObsidian": false
+    }
+  ],
+  [
+    "content-marketer",
+    {
+      "timestamp": 1778691855167,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-compression",
+    {
+      "timestamp": 1778691855170,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-degradation",
+    {
+      "timestamp": 1778691855173,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-driven-development",
+    {
+      "timestamp": 1778691855175,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-fundamentals",
+    {
+      "timestamp": 1778691855178,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-guardian",
+    {
+      "timestamp": 1778691827651,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-management-context-restore",
+    {
+      "timestamp": 1778691855176,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-management-context-save",
+    {
+      "timestamp": 1778691855180,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-manager",
+    {
+      "timestamp": 1778691855184,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-optimization",
+    {
+      "timestamp": 1778691855182,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context-window-management",
+    {
+      "timestamp": 1778691855186,
+      "isObsidian": false
+    }
+  ],
+  [
+    "context7-auto-research",
+    {
+      "timestamp": 1778691855188,
+      "isObsidian": false
+    }
+  ],
+  [
+    "conversation-memory",
+    {
+      "timestamp": 1778691855192,
+      "isObsidian": false
+    }
+  ],
+  [
+    "convex",
+    {
+      "timestamp": 1778691855194,
+      "isObsidian": false
+    }
+  ],
+  [
+    "copy-editing",
+    {
+      "timestamp": 1778691855202,
+      "isObsidian": false
+    }
+  ],
+  [
+    "copilot-sdk",
+    {
+      "timestamp": 1778691855196,
+      "isObsidian": false
+    }
+  ],
+  [
+    "copywriting",
+    {
+      "timestamp": 1778691855204,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cost-optimization",
+    {
+      "timestamp": 1778691855208,
+      "isObsidian": false
+    }
+  ],
+  [
+    "create-branch",
+    {
+      "timestamp": 1778691855212,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cqrs-implementation",
+    {
+      "timestamp": 1778691827653,
+      "isObsidian": false
+    }
+  ],
+  [
+    "create-issue-gate",
+    {
+      "timestamp": 1778691855214,
+      "isObsidian": false
+    }
+  ],
+  [
+    "create-pr",
+    {
+      "timestamp": 1778691855215,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cred-omega",
+    {
+      "timestamp": 1778691855217,
+      "isObsidian": false
+    }
+  ],
+  [
+    "customer-support",
+    {
+      "timestamp": 1778691855222,
+      "isObsidian": false
+    }
+  ],
+  [
+    "customs-trade-compliance",
+    {
+      "timestamp": 1778691827655,
+      "isObsidian": false
+    }
+  ],
+  [
+    "deep-research",
+    {
+      "timestamp": 1778691855266,
+      "isObsidian": false
+    }
+  ],
+  [
+    "defi-protocol-templates",
+    {
+      "timestamp": 1778691855262,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dependency-upgrade",
+    {
+      "timestamp": 1778691855268,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ddd-context-mapping",
+    {
+      "timestamp": 1778691827687,
+      "isObsidian": false
+    }
+  ],
+  [
+    "development",
+    {
+      "timestamp": 1778691855286,
+      "isObsidian": false
+    }
+  ],
+  [
+    "diary",
+    {
+      "timestamp": 1778691683197,
+      "isObsidian": false
+    }
+  ],
+  [
+    "discord-bot-architect",
+    {
+      "timestamp": 1778691855298,
+      "isObsidian": false
+    }
+  ],
+  [
+    "differential-review",
+    {
+      "timestamp": 1778691855296,
+      "isObsidian": false
+    }
+  ],
+  [
+    "distributed-tracing",
+    {
+      "timestamp": 1778691855303,
+      "isObsidian": false
+    }
+  ],
+  [
+    "django-access-review",
+    {
+      "timestamp": 1778691855301,
+      "isObsidian": false
+    }
+  ],
+  [
+    "django-perf-review",
+    {
+      "timestamp": 1778691855305,
+      "isObsidian": false
+    }
+  ],
+  [
+    "django-pro",
+    {
+      "timestamp": 1778691855308,
+      "isObsidian": false
+    }
+  ],
+  [
+    "doc-coauthoring",
+    {
+      "timestamp": 1778691855307,
+      "isObsidian": false
+    }
+  ],
+  [
+    "docs-architect",
+    {
+      "timestamp": 1778691855312,
+      "isObsidian": false
+    }
+  ],
+  [
+    "documentation-generation-doc-generate",
+    {
+      "timestamp": 1778691827729,
+      "isObsidian": false
+    }
+  ],
+  [
+    "documentation",
+    {
+      "timestamp": 1778691855315,
+      "isObsidian": false
+    }
+  ],
+  [
+    "documentation-templates",
+    {
+      "timestamp": 1778691855316,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dotnet-architect",
+    {
+      "timestamp": 1778691860011,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dwarf-expert",
+    {
+      "timestamp": 1778691860024,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dx-optimizer",
+    {
+      "timestamp": 1778691860026,
+      "isObsidian": false
+    }
+  ],
+  [
+    "docx-official",
+    {
+      "timestamp": 1778691683213,
+      "isObsidian": false
+    }
+  ],
+  [
+    "electron-development",
+    {
+      "timestamp": 1778691860034,
+      "isObsidian": false
+    }
+  ],
+  [
+    "elixir-pro",
+    {
+      "timestamp": 1778691860036,
+      "isObsidian": false
+    }
+  ],
+  [
+    "elon-musk",
+    {
+      "timestamp": 1778691829750,
+      "isObsidian": false
+    }
+  ],
+  [
+    "embedding-strategies",
+    {
+      "timestamp": 1778691860044,
+      "isObsidian": false
+    }
+  ],
+  [
+    "emergency-card",
+    {
+      "timestamp": 1778691860049,
+      "isObsidian": false
+    }
+  ],
+  [
+    "employment-contract-templates",
+    {
+      "timestamp": 1778691829753,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-detective",
+    {
+      "timestamp": 1778691860062,
+      "isObsidian": false
+    }
+  ],
+  [
+    "energy-procurement",
+    {
+      "timestamp": 1778691829767,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-diagnostics-error-analysis",
+    {
+      "timestamp": 1778691829780,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-diagnostics-error-trace",
+    {
+      "timestamp": 1778691829777,
+      "isObsidian": false
+    }
+  ],
+  [
+    "evaluation",
+    {
+      "timestamp": 1778691860069,
+      "isObsidian": false
+    }
+  ],
+  [
+    "event-sourcing-architect",
+    {
+      "timestamp": 1778691860067,
+      "isObsidian": false
+    }
+  ],
+  [
+    "evolution",
+    {
+      "timestamp": 1778691860071,
+      "isObsidian": false
+    }
+  ],
+  [
+    "exa-search",
+    {
+      "timestamp": 1778691860074,
+      "isObsidian": false
+    }
+  ],
+  [
+    "executing-plans",
+    {
+      "timestamp": 1778691860090,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fal-audio",
+    {
+      "timestamp": 1778691860105,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fal-image-edit",
+    {
+      "timestamp": 1778691860111,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fal-workflow",
+    {
+      "timestamp": 1778691860113,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fal-upscale",
+    {
+      "timestamp": 1778691860121,
+      "isObsidian": false
+    }
+  ],
+  [
+    "family-health-analyzer",
+    {
+      "timestamp": 1778691860119,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fal-generate",
+    {
+      "timestamp": 1778691860109,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ffuf-claude-skill",
+    {
+      "timestamp": 1778691860134,
+      "isObsidian": false
+    }
+  ],
+  [
+    "favicon",
+    {
+      "timestamp": 1778691860129,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ffuf-web-fuzzing",
+    {
+      "timestamp": 1778691860138,
+      "isObsidian": false
+    }
+  ],
+  [
+    "file-organizer",
+    {
+      "timestamp": 1778691860143,
+      "isObsidian": false
+    }
+  ],
+  [
+    "file-uploads",
+    {
+      "timestamp": 1778691860148,
+      "isObsidian": false
+    }
+  ],
+  [
+    "file-path-traversal",
+    {
+      "timestamp": 1778691860146,
+      "isObsidian": false
+    }
+  ],
+  [
+    "filesystem-context",
+    {
+      "timestamp": 1778691860151,
+      "isObsidian": false
+    }
+  ],
+  [
+    "find-bugs",
+    {
+      "timestamp": 1778691860158,
+      "isObsidian": false
+    }
+  ],
+  [
+    "firebase-basics",
+    {
+      "timestamp": 1778691829789,
+      "isObsidian": false
+    }
+  ],
+  [
+    "finishing-a-development-branch",
+    {
+      "timestamp": 1778691860156,
+      "isObsidian": false
+    }
+  ],
+  [
+    "firebase",
+    {
+      "timestamp": 1778691860153,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fitness-analyzer",
+    {
+      "timestamp": 1778691860167,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fix-review",
+    {
+      "timestamp": 1778691860165,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fixing-accessibility",
+    {
+      "timestamp": 1778691860169,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-async",
+    {
+      "timestamp": 1778691860186,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-either-ref",
+    {
+      "timestamp": 1778691860194,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-errors",
+    {
+      "timestamp": 1778691860196,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-option-ref",
+    {
+      "timestamp": 1778691860202,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-pipe-ref",
+    {
+      "timestamp": 1778691860199,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-taskeither-ref",
+    {
+      "timestamp": 1778691860210,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-ts-errors",
+    {
+      "timestamp": 1778691860207,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-types-ref",
+    {
+      "timestamp": 1778691860223,
+      "isObsidian": false
+    }
+  ],
+  [
+    "framework-migration-code-migrate",
+    {
+      "timestamp": 1778691829830,
+      "isObsidian": false
+    }
+  ],
+  [
+    "framework-migration-deps-upgrade",
+    {
+      "timestamp": 1778691829826,
+      "isObsidian": false
+    }
+  ],
+  [
+    "framework-migration-legacy-modernize",
+    {
+      "timestamp": 1778691860226,
+      "isObsidian": false
+    }
+  ],
+  [
+    "free-tool-strategy",
+    {
+      "timestamp": 1778691860228,
+      "isObsidian": false
+    }
+  ],
+  [
+    "full-stack-orchestration-full-stack-feature",
+    {
+      "timestamp": 1778691860254,
+      "isObsidian": false
+    }
+  ],
+  [
+    "geoffrey-hinton",
+    {
+      "timestamp": 1778691860265,
+      "isObsidian": false
+    }
+  ],
+  [
+    "geo-fundamentals",
+    {
+      "timestamp": 1778691829862,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gh-review-requests",
+    {
+      "timestamp": 1778691860268,
+      "isObsidian": false
+    }
+  ],
+  [
+    "go-rod-master",
+    {
+      "timestamp": 1778691829902,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gke-basics",
+    {
+      "timestamp": 1778691829870,
+      "isObsidian": false
+    }
+  ],
+  [
+    "goal-analyzer",
+    {
+      "timestamp": 1778691860306,
+      "isObsidian": false
+    }
+  ],
+  [
+    "godot-4-migration",
+    {
+      "timestamp": 1778691860308,
+      "isObsidian": false
+    }
+  ],
+  [
+    "grafana-dashboards",
+    {
+      "timestamp": 1778691860342,
+      "isObsidian": false
+    }
+  ],
+  [
+    "graphql-architect",
+    {
+      "timestamp": 1778691860348,
+      "isObsidian": false
+    }
+  ],
+  [
+    "game-development",
+    {
+      "timestamp": 1778691829847,
+      "isObsidian": false
+    }
+  ],
+  [
+    "growth-engine",
+    {
+      "timestamp": 1778691860350,
+      "isObsidian": false
+    }
+  ],
+  [
+    "graphql",
+    {
+      "timestamp": 1778691860345,
+      "isObsidian": false
+    }
+  ],
+  [
+    "health-trend-analyzer",
+    {
+      "timestamp": 1778691860355,
+      "isObsidian": false
+    }
+  ],
+  [
+    "helm-chart-scaffolding",
+    {
+      "timestamp": 1778691829916,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hybrid-search-implementation",
+    {
+      "timestamp": 1778691832664,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hr-pro",
+    {
+      "timestamp": 1778691866564,
+      "isObsidian": false
+    }
+  ],
+  [
+    "i18n-localization",
+    {
+      "timestamp": 1778691832662,
+      "isObsidian": false
+    }
+  ],
+  [
+    "iconsax-library",
+    {
+      "timestamp": 1778691866603,
+      "isObsidian": false
+    }
+  ],
+  [
+    "image-studio",
+    {
+      "timestamp": 1778691866608,
+      "isObsidian": false
+    }
+  ],
+  [
+    "imagen",
+    {
+      "timestamp": 1778691866616,
+      "isObsidian": false
+    }
+  ],
+  [
+    "incident-responder",
+    {
+      "timestamp": 1778691866614,
+      "isObsidian": false
+    }
+  ],
+  [
+    "incident-response-incident-response",
+    {
+      "timestamp": 1778691866619,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ilya-sutskever",
+    {
+      "timestamp": 1778691866611,
+      "isObsidian": false
+    }
+  ],
+  [
+    "incident-response-smart-fix",
+    {
+      "timestamp": 1778691832666,
+      "isObsidian": false
+    }
+  ],
+  [
+    "incident-runbook-templates",
+    {
+      "timestamp": 1778691866621,
+      "isObsidian": false
+    }
+  ],
+  [
+    "infinite-gratitude",
+    {
+      "timestamp": 1778691866627,
+      "isObsidian": false
+    }
+  ],
+  [
+    "inngest",
+    {
+      "timestamp": 1778691866643,
+      "isObsidian": false
+    }
+  ],
+  [
+    "instagram",
+    {
+      "timestamp": 1778691832669,
+      "isObsidian": false
+    }
+  ],
+  [
+    "internal-comms-anthropic",
+    {
+      "timestamp": 1778691683299,
+      "isObsidian": false
+    }
+  ],
+  [
+    "interactive-portfolio",
+    {
+      "timestamp": 1778691866637,
+      "isObsidian": false
+    }
+  ],
+  [
+    "internal-comms-community",
+    {
+      "timestamp": 1778691683301,
+      "isObsidian": false
+    }
+  ],
+  [
+    "interview-coach",
+    {
+      "timestamp": 1778691866645,
+      "isObsidian": false
+    }
+  ],
+  [
+    "inventory-demand-planning",
+    {
+      "timestamp": 1778691832672,
+      "isObsidian": false
+    }
+  ],
+  [
+    "issues",
+    {
+      "timestamp": 1778691866647,
+      "isObsidian": false
+    }
+  ],
+  [
+    "istio-traffic-management",
+    {
+      "timestamp": 1778691866650,
+      "isObsidian": false
+    }
+  ],
+  [
+    "iterate-pr",
+    {
+      "timestamp": 1778691866655,
+      "isObsidian": false
+    }
+  ],
+  [
+    "k8s-manifest-generator",
+    {
+      "timestamp": 1778691832678,
+      "isObsidian": false
+    }
+  ],
+  [
+    "junta-leiloeiros",
+    {
+      "timestamp": 1778691832676,
+      "isObsidian": false
+    }
+  ],
+  [
+    "keyword-extractor",
+    {
+      "timestamp": 1778691866679,
+      "isObsidian": false
+    }
+  ],
+  [
+    "langfuse",
+    {
+      "timestamp": 1778691866696,
+      "isObsidian": false
+    }
+  ],
+  [
+    "last30days",
+    {
+      "timestamp": 1778691683311,
+      "isObsidian": false
+    }
+  ],
+  [
+    "latex-paper-conversion",
+    {
+      "timestamp": 1778691866709,
+      "isObsidian": false
+    }
+  ],
+  [
+    "launch-strategy",
+    {
+      "timestamp": 1778691866711,
+      "isObsidian": false
+    }
+  ],
+  [
+    "legacy-modernizer",
+    {
+      "timestamp": 1778691866713,
+      "isObsidian": false
+    }
+  ],
+  [
+    "legal-advisor",
+    {
+      "timestamp": 1778691866715,
+      "isObsidian": false
+    }
+  ],
+  [
+    "laravel-expert",
+    {
+      "timestamp": 1778691866704,
+      "isObsidian": false
+    }
+  ],
+  [
+    "leiloeiro-avaliacao",
+    {
+      "timestamp": 1778691832683,
+      "isObsidian": false
+    }
+  ],
+  [
+    "langgraph",
+    {
+      "timestamp": 1778691866701,
+      "isObsidian": false
+    }
+  ],
+  [
+    "leiloeiro-edital",
+    {
+      "timestamp": 1778691832692,
+      "isObsidian": false
+    }
+  ],
+  [
+    "leiloeiro-juridico",
+    {
+      "timestamp": 1778691832685,
+      "isObsidian": false
+    }
+  ],
+  [
+    "leiloeiro-ia",
+    {
+      "timestamp": 1778691832689,
+      "isObsidian": false
+    }
+  ],
+  [
+    "leiloeiro-risco",
+    {
+      "timestamp": 1778691832697,
+      "isObsidian": false
+    }
+  ],
+  [
+    "leiloeiro-mercado",
+    {
+      "timestamp": 1778691832694,
+      "isObsidian": false
+    }
+  ],
+  [
+    "lex",
+    {
+      "timestamp": 1778691683324,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linkedin-cli",
+    {
+      "timestamp": 1778691866735,
+      "isObsidian": false
+    }
+  ],
+  [
+    "lightning-channel-factories",
+    {
+      "timestamp": 1778691866720,
+      "isObsidian": false
+    }
+  ],
+  [
+    "logistics-exception-management",
+    {
+      "timestamp": 1778691832709,
+      "isObsidian": false
+    }
+  ],
+  [
+    "loki-mode",
+    {
+      "timestamp": 1778691683329,
+      "isObsidian": false
+    }
+  ],
+  [
+    "magic-animator",
+    {
+      "timestamp": 1778691873902,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-basics",
+    {
+      "timestamp": 1778691873904,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-event-action",
+    {
+      "timestamp": 1778691873912,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-dsl",
+    {
+      "timestamp": 1778691873909,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-font",
+    {
+      "timestamp": 1778691873914,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-layout",
+    {
+      "timestamp": 1778691873919,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-reference",
+    {
+      "timestamp": 1778691873922,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-shaders",
+    {
+      "timestamp": 1778691873925,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-skills",
+    {
+      "timestamp": 1778691873927,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-splash",
+    {
+      "timestamp": 1778691873930,
+      "isObsidian": false
+    }
+  ],
+  [
+    "makepad-widgets",
+    {
+      "timestamp": 1778691873938,
+      "isObsidian": false
+    }
+  ],
+  [
+    "malware-analyst",
+    {
+      "timestamp": 1778691873940,
+      "isObsidian": false
+    }
+  ],
+  [
+    "manifest",
+    {
+      "timestamp": 1778691873942,
+      "isObsidian": false
+    }
+  ],
+  [
+    "matematico-tao",
+    {
+      "timestamp": 1778691835074,
+      "isObsidian": false
+    }
+  ],
+  [
+    "matplotlib",
+    {
+      "timestamp": 1778691873952,
+      "isObsidian": false
+    }
+  ],
+  [
+    "memory-forensics",
+    {
+      "timestamp": 1778691873957,
+      "isObsidian": false
+    }
+  ],
+  [
+    "memory-systems",
+    {
+      "timestamp": 1778691873954,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mental-health-analyzer",
+    {
+      "timestamp": 1778691873960,
+      "isObsidian": false
+    }
+  ],
+  [
+    "minecraft-bukkit-pro",
+    {
+      "timestamp": 1778691874002,
+      "isObsidian": false
+    }
+  ],
+  [
+    "market-sizing-analysis",
+    {
+      "timestamp": 1778691835070,
+      "isObsidian": false
+    }
+  ],
+  [
+    "metasploit-framework",
+    {
+      "timestamp": 1778691873999,
+      "isObsidian": false
+    }
+  ],
+  [
+    "molykit",
+    {
+      "timestamp": 1778691874036,
+      "isObsidian": false
+    }
+  ],
+  [
+    "monetization",
+    {
+      "timestamp": 1778691874048,
+      "isObsidian": false
+    }
+  ],
+  [
+    "monorepo-architect",
+    {
+      "timestamp": 1778691874045,
+      "isObsidian": false
+    }
+  ],
+  [
+    "multi-advisor",
+    {
+      "timestamp": 1778691874053,
+      "isObsidian": false
+    }
+  ],
+  [
+    "monorepo-management",
+    {
+      "timestamp": 1778691835086,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-expression-syntax",
+    {
+      "timestamp": 1778691874122,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mtls-configuration",
+    {
+      "timestamp": 1778691874042,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-mcp-tools-expert",
+    {
+      "timestamp": 1778691874136,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-node-configuration",
+    {
+      "timestamp": 1778691874142,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-validation-expert",
+    {
+      "timestamp": 1778691874145,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nanobanana-ppt-skills",
+    {
+      "timestamp": 1778691874151,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nerdzao-elite",
+    {
+      "timestamp": 1778691874194,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nestjs-expert",
+    {
+      "timestamp": 1778691874176,
+      "isObsidian": false
+    }
+  ],
+  [
+    "network-101",
+    {
+      "timestamp": 1778691874179,
+      "isObsidian": false
+    }
+  ],
+  [
+    "network-engineer",
+    {
+      "timestamp": 1778691874170,
+      "isObsidian": false
+    }
+  ],
+  [
+    "networkx",
+    {
+      "timestamp": 1778691874191,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nft-standards",
+    {
+      "timestamp": 1778691874206,
+      "isObsidian": false
+    }
+  ],
+  [
+    "notebooklm",
+    {
+      "timestamp": 1778691683373,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nutrition-analyzer",
+    {
+      "timestamp": 1778691874218,
+      "isObsidian": false
+    }
+  ],
+  [
+    "observability-engineer",
+    {
+      "timestamp": 1778691874230,
+      "isObsidian": false
+    }
+  ],
+  [
+    "obsidian-bridge",
+    {
+      "timestamp": 1778691835117,
+      "isObsidian": true
+    }
+  ],
+  [
+    "observability-monitoring-slo-implement",
+    {
+      "timestamp": 1778691835106,
+      "isObsidian": false
+    }
+  ],
+  [
+    "observability-monitoring-monitor-setup",
+    {
+      "timestamp": 1778691835120,
+      "isObsidian": false
+    }
+  ],
+  [
+    "obsidian-clipper-template-creator",
+    {
+      "timestamp": 1778691835123,
+      "isObsidian": true
+    }
+  ],
+  [
+    "odoo-accounting-setup",
+    {
+      "timestamp": 1778691874236,
+      "isObsidian": false
+    }
+  ],
+  [
+    "occupational-health-analyzer",
+    {
+      "timestamp": 1778691874233,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-backup-strategy",
+    {
+      "timestamp": 1778691874244,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-ecommerce-configurator",
+    {
+      "timestamp": 1778691874248,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-hr-payroll-setup",
+    {
+      "timestamp": 1778691874253,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-edi-connector",
+    {
+      "timestamp": 1778691874256,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-inventory-optimizer",
+    {
+      "timestamp": 1778691874259,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-l10n-compliance",
+    {
+      "timestamp": 1778691874266,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-manufacturing-advisor",
+    {
+      "timestamp": 1778691874261,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-migration-helper",
+    {
+      "timestamp": 1778691874272,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-module-developer",
+    {
+      "timestamp": 1778691874263,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-project-timesheet",
+    {
+      "timestamp": 1778691874297,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-purchase-workflow",
+    {
+      "timestamp": 1778691874300,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-qweb-templates",
+    {
+      "timestamp": 1778691874315,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-sales-crm-expert",
+    {
+      "timestamp": 1778691874306,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-upgrade-advisor",
+    {
+      "timestamp": 1778691874318,
+      "isObsidian": false
+    }
+  ],
+  [
+    "office-productivity",
+    {
+      "timestamp": 1778691874323,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-woocommerce-bridge",
+    {
+      "timestamp": 1778691874326,
+      "isObsidian": false
+    }
+  ],
+  [
+    "oral-health-analyzer",
+    {
+      "timestamp": 1778691874340,
+      "isObsidian": false
+    }
+  ],
+  [
+    "os-scripting",
+    {
+      "timestamp": 1778691874338,
+      "isObsidian": false
+    }
+  ],
+  [
+    "oss-hunter",
+    {
+      "timestamp": 1778691835183,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pakistan-payments-stack",
+    {
+      "timestamp": 1778691874362,
+      "isObsidian": false
+    }
+  ],
+  [
+    "payment-integration",
+    {
+      "timestamp": 1778691874357,
+      "isObsidian": false
+    }
+  ],
+  [
+    "paypal-integration",
+    {
+      "timestamp": 1778691874366,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pci-compliance",
+    {
+      "timestamp": 1778691874369,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pdf-official",
+    {
+      "timestamp": 1778691683405,
+      "isObsidian": false
+    }
+  ],
+  [
+    "plan-writing",
+    {
+      "timestamp": 1778691874400,
+      "isObsidian": false
+    }
+  ],
+  [
+    "planning-with-files",
+    {
+      "timestamp": 1778691683408,
+      "isObsidian": false
+    }
+  ],
+  [
+    "plotly",
+    {
+      "timestamp": 1778691874406,
+      "isObsidian": false
+    }
+  ],
+  [
+    "podcast-generation",
+    {
+      "timestamp": 1778691874408,
+      "isObsidian": false
+    }
+  ],
+  [
+    "polars",
+    {
+      "timestamp": 1778691874411,
+      "isObsidian": false
+    }
+  ],
+  [
+    "postmortem-writing",
+    {
+      "timestamp": 1778691874435,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pptx-official",
+    {
+      "timestamp": 1778691683413,
+      "isObsidian": false
+    }
+  ],
+  [
+    "posix-shell-pro",
+    {
+      "timestamp": 1778691874417,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pr-writer",
+    {
+      "timestamp": 1778691874440,
+      "isObsidian": false
+    }
+  ],
+  [
+    "privilege-escalation-methods",
+    {
+      "timestamp": 1778691874451,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prisma-expert",
+    {
+      "timestamp": 1778691874445,
+      "isObsidian": false
+    }
+  ],
+  [
+    "product-inventor",
+    {
+      "timestamp": 1778691874454,
+      "isObsidian": false
+    }
+  ],
+  [
+    "product-manager-toolkit",
+    {
+      "timestamp": 1778691835309,
+      "isObsidian": false
+    }
+  ],
+  [
+    "product-manager",
+    {
+      "timestamp": 1778691884941,
+      "isObsidian": false
+    }
+  ],
+  [
+    "production-scheduling",
+    {
+      "timestamp": 1778691835312,
+      "isObsidian": false
+    }
+  ],
+  [
+    "professional-proofreader",
+    {
+      "timestamp": 1778691835316,
+      "isObsidian": false
+    }
+  ],
+  [
+    "progressive-estimation",
+    {
+      "timestamp": 1778691884946,
+      "isObsidian": false
+    }
+  ],
+  [
+    "project-development",
+    {
+      "timestamp": 1778691884949,
+      "isObsidian": false
+    }
+  ],
+  [
+    "progressive-web-app",
+    {
+      "timestamp": 1778691884947,
+      "isObsidian": false
+    }
+  ],
+  [
+    "prometheus-configuration",
+    {
+      "timestamp": 1778691884950,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pydantic-models-py",
+    {
+      "timestamp": 1778691884963,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pypict-skill",
+    {
+      "timestamp": 1778691884957,
+      "isObsidian": false
+    }
+  ],
+  [
+    "qiskit",
+    {
+      "timestamp": 1778691884966,
+      "isObsidian": false
+    }
+  ],
+  [
+    "quant-analyst",
+    {
+      "timestamp": 1778691884968,
+      "isObsidian": false
+    }
+  ],
+  [
+    "readme",
+    {
+      "timestamp": 1778691884990,
+      "isObsidian": false
+    }
+  ],
+  [
+    "receiving-code-review",
+    {
+      "timestamp": 1778691884995,
+      "isObsidian": false
+    }
+  ],
+  [
+    "referral-program",
+    {
+      "timestamp": 1778691885004,
+      "isObsidian": false
+    }
+  ],
+  [
+    "rehabilitation-analyzer",
+    {
+      "timestamp": 1778691885002,
+      "isObsidian": false
+    }
+  ],
+  [
+    "requesting-code-review",
+    {
+      "timestamp": 1778691683438,
+      "isObsidian": false
+    }
+  ],
+  [
+    "reverse-engineer",
+    {
+      "timestamp": 1778691885010,
+      "isObsidian": false
+    }
+  ],
+  [
+    "returns-reverse-logistics",
+    {
+      "timestamp": 1778691837637,
+      "isObsidian": false
+    }
+  ],
+  [
+    "risk-manager",
+    {
+      "timestamp": 1778691885014,
+      "isObsidian": false
+    }
+  ],
+  [
+    "risk-metrics-calculation",
+    {
+      "timestamp": 1778691837640,
+      "isObsidian": false
+    }
+  ],
+  [
+    "robius-event-action",
+    {
+      "timestamp": 1778691885016,
+      "isObsidian": false
+    }
+  ],
+  [
+    "robius-matrix-integration",
+    {
+      "timestamp": 1778691885018,
+      "isObsidian": false
+    }
+  ],
+  [
+    "saas-mvp-launcher",
+    {
+      "timestamp": 1778691885053,
+      "isObsidian": false
+    }
+  ],
+  [
+    "saga-orchestration",
+    {
+      "timestamp": 1778691837645,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sales-automator",
+    {
+      "timestamp": 1778691885027,
+      "isObsidian": false
+    }
+  ],
+  [
+    "robius-state-management",
+    {
+      "timestamp": 1778691885022,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sam-altman",
+    {
+      "timestamp": 1778691885033,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sast-configuration",
+    {
+      "timestamp": 1778691885035,
+      "isObsidian": false
+    }
+  ],
+  [
+    "scala-pro",
+    {
+      "timestamp": 1778691885042,
+      "isObsidian": false
+    }
+  ],
+  [
+    "scanning-tools",
+    {
+      "timestamp": 1778691885041,
+      "isObsidian": false
+    }
+  ],
+  [
+    "scanpy",
+    {
+      "timestamp": 1778691885039,
+      "isObsidian": false
+    }
+  ],
+  [
+    "schema-markup",
+    {
+      "timestamp": 1778691885046,
+      "isObsidian": false
+    }
+  ],
+  [
+    "scientific-writing",
+    {
+      "timestamp": 1778691885047,
+      "isObsidian": false
+    }
+  ],
+  [
+    "scikit-learn",
+    {
+      "timestamp": 1778691885044,
+      "isObsidian": false
+    }
+  ],
+  [
+    "screenshots",
+    {
+      "timestamp": 1778691885049,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seaborn",
+    {
+      "timestamp": 1778691885055,
+      "isObsidian": false
+    }
+  ],
+  [
+    "search-specialist",
+    {
+      "timestamp": 1778691885051,
+      "isObsidian": false
+    }
+  ],
+  [
+    "secrets-management",
+    {
+      "timestamp": 1778691885059,
+      "isObsidian": false
+    }
+  ],
+  [
+    "seek-and-analyze-video",
+    {
+      "timestamp": 1778691885070,
+      "isObsidian": false
+    }
+  ],
+  [
+    "semgrep-rule-creator",
+    {
+      "timestamp": 1778691885075,
+      "isObsidian": false
+    }
+  ],
+  [
+    "segment-cdp",
+    {
+      "timestamp": 1778691885072,
+      "isObsidian": false
+    }
+  ],
+  [
+    "semgrep-rule-variant-creator",
+    {
+      "timestamp": 1778691885077,
+      "isObsidian": false
+    }
+  ],
+  [
+    "senior-architect",
+    {
+      "timestamp": 1778691837658,
+      "isObsidian": false
+    }
+  ],
+  [
+    "server-management",
+    {
+      "timestamp": 1778691885114,
+      "isObsidian": false
+    }
+  ],
+  [
+    "senior-fullstack",
+    {
+      "timestamp": 1778691837660,
+      "isObsidian": false
+    }
+  ],
+  [
+    "service-mesh-expert",
+    {
+      "timestamp": 1778691885112,
+      "isObsidian": false
+    }
+  ],
+  [
+    "service-mesh-observability",
+    {
+      "timestamp": 1778691885116,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sexual-health-analyzer",
+    {
+      "timestamp": 1778691885118,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shader-programming-glsl",
+    {
+      "timestamp": 1778691885122,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sharp-edges",
+    {
+      "timestamp": 1778691885120,
+      "isObsidian": false
+    }
+  ],
+  [
+    "shellcheck-configuration",
+    {
+      "timestamp": 1778691885123,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-check",
+    {
+      "timestamp": 1778691885133,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-creator-ms",
+    {
+      "timestamp": 1778691885135,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-creator",
+    {
+      "timestamp": 1778691683479,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-developer",
+    {
+      "timestamp": 1778691683481,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-improver",
+    {
+      "timestamp": 1778691885137,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-installer",
+    {
+      "timestamp": 1778691837671,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-router",
+    {
+      "timestamp": 1778691885147,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-scanner",
+    {
+      "timestamp": 1778691885140,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-sentinel",
+    {
+      "timestamp": 1778691837673,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-seekers",
+    {
+      "timestamp": 1778691885142,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skill-writer",
+    {
+      "timestamp": 1778691885148,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skin-health-analyzer",
+    {
+      "timestamp": 1778691885145,
+      "isObsidian": false
+    }
+  ],
+  [
+    "slack-gif-creator",
+    {
+      "timestamp": 1778691683490,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sleep-analyzer",
+    {
+      "timestamp": 1778691885150,
+      "isObsidian": false
+    }
+  ],
+  [
+    "slo-implementation",
+    {
+      "timestamp": 1778691885153,
+      "isObsidian": false
+    }
+  ],
+  [
+    "social-content",
+    {
+      "timestamp": 1778691885158,
+      "isObsidian": false
+    }
+  ],
+  [
+    "social-orchestrator",
+    {
+      "timestamp": 1778691885156,
+      "isObsidian": false
+    }
+  ],
+  [
+    "spec-to-code-compliance",
+    {
+      "timestamp": 1778691885163,
+      "isObsidian": false
+    }
+  ],
+  [
+    "speckit-updater",
+    {
+      "timestamp": 1778691885167,
+      "isObsidian": false
+    }
+  ],
+  [
+    "speed",
+    {
+      "timestamp": 1778691885164,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sred-project-organizer",
+    {
+      "timestamp": 1778691885181,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sred-work-summary",
+    {
+      "timestamp": 1778691885174,
+      "isObsidian": false
+    }
+  ],
+  [
+    "startup-analyst",
+    {
+      "timestamp": 1778691885178,
+      "isObsidian": false
+    }
+  ],
+  [
+    "startup-financial-modeling",
+    {
+      "timestamp": 1778691885186,
+      "isObsidian": false
+    }
+  ],
+  [
+    "spline-3d-integration",
+    {
+      "timestamp": 1778691837686,
+      "isObsidian": false
+    }
+  ],
+  [
+    "startup-metrics-framework",
+    {
+      "timestamp": 1778691837693,
+      "isObsidian": false
+    }
+  ],
+  [
+    "statsmodels",
+    {
+      "timestamp": 1778691885188,
+      "isObsidian": false
+    }
+  ],
+  [
+    "stitch-loop",
+    {
+      "timestamp": 1778691885190,
+      "isObsidian": false
+    }
+  ],
+  [
+    "steve-jobs",
+    {
+      "timestamp": 1778691885192,
+      "isObsidian": false
+    }
+  ],
+  [
+    "stripe-integration",
+    {
+      "timestamp": 1778691885196,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tanstack-query-expert",
+    {
+      "timestamp": 1778691885212,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sympy",
+    {
+      "timestamp": 1778691885206,
+      "isObsidian": false
+    }
+  ],
+  [
+    "superpowers-lab",
+    {
+      "timestamp": 1778691885202,
+      "isObsidian": false
+    }
+  ],
+  [
+    "task-intelligence",
+    {
+      "timestamp": 1778691837700,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tavily-web",
+    {
+      "timestamp": 1778691885216,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tcm-constitution-analyzer",
+    {
+      "timestamp": 1778691885214,
+      "isObsidian": false
+    }
+  ],
+  [
+    "team-collaboration-issue",
+    {
+      "timestamp": 1778691837707,
+      "isObsidian": false
+    }
+  ],
+  [
+    "team-collaboration-standup-notes",
+    {
+      "timestamp": 1778691837710,
+      "isObsidian": false
+    }
+  ],
+  [
+    "telegram-mini-app",
+    {
+      "timestamp": 1778691885233,
+      "isObsidian": false
+    }
+  ],
+  [
+    "team-composition-analysis",
+    {
+      "timestamp": 1778691885231,
+      "isObsidian": false
+    }
+  ],
+  [
+    "telegram",
+    {
+      "timestamp": 1778691837705,
+      "isObsidian": false
+    }
+  ],
+  [
+    "theme-factory",
+    {
+      "timestamp": 1778691683521,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-fundamentals",
+    {
+      "timestamp": 1778691885258,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-geometry",
+    {
+      "timestamp": 1778691885262,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-interaction",
+    {
+      "timestamp": 1778691885264,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-lighting",
+    {
+      "timestamp": 1778691885266,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-materials",
+    {
+      "timestamp": 1778691885267,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-loaders",
+    {
+      "timestamp": 1778691885269,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-postprocessing",
+    {
+      "timestamp": 1778691885274,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-shaders",
+    {
+      "timestamp": 1778691885271,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-skills",
+    {
+      "timestamp": 1778691885273,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threejs-textures",
+    {
+      "timestamp": 1778691885276,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tool-use-guardian",
+    {
+      "timestamp": 1778691885285,
+      "isObsidian": false
+    }
+  ],
+  [
+    "top-web-vulnerabilities",
+    {
+      "timestamp": 1778691885286,
+      "isObsidian": false
+    }
+  ],
+  [
+    "travel-health-analyzer",
+    {
+      "timestamp": 1778691885288,
+      "isObsidian": false
+    }
+  ],
+  [
+    "track-management",
+    {
+      "timestamp": 1778691837725,
+      "isObsidian": false
+    }
+  ],
+  [
+    "trigger-dev",
+    {
+      "timestamp": 1778691885292,
+      "isObsidian": false
+    }
+  ],
+  [
+    "trpc-fullstack",
+    {
+      "timestamp": 1778691885295,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tutorial-engineer",
+    {
+      "timestamp": 1778691885297,
+      "isObsidian": false
+    }
+  ],
+  [
+    "turborepo-caching",
+    {
+      "timestamp": 1778691885293,
+      "isObsidian": false
+    }
+  ],
+  [
+    "twilio-communications",
+    {
+      "timestamp": 1778691885301,
+      "isObsidian": false
+    }
+  ],
+  [
+    "uncle-bob-craft",
+    {
+      "timestamp": 1778691683543,
+      "isObsidian": false
+    }
+  ],
+  [
+    "unsplash-integration",
+    {
+      "timestamp": 1778691885317,
+      "isObsidian": false
+    }
+  ],
+  [
+    "unity-developer",
+    {
+      "timestamp": 1778691885313,
+      "isObsidian": false
+    }
+  ],
+  [
+    "upstash-qstash",
+    {
+      "timestamp": 1778691885318,
+      "isObsidian": false
+    }
+  ],
+  [
+    "using-neon",
+    {
+      "timestamp": 1778691885320,
+      "isObsidian": false
+    }
+  ],
+  [
+    "uv-package-manager",
+    {
+      "timestamp": 1778691837741,
+      "isObsidian": false
+    }
+  ],
+  [
+    "using-superpowers",
+    {
+      "timestamp": 1778691885324,
+      "isObsidian": false
+    }
+  ],
+  [
+    "variant-analysis",
+    {
+      "timestamp": 1778691885326,
+      "isObsidian": false
+    }
+  ],
+  [
+    "varlock-claude-skill",
+    {
+      "timestamp": 1778691885330,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vector-index-tuning",
+    {
+      "timestamp": 1778691837743,
+      "isObsidian": false
+    }
+  ],
+  [
+    "varlock",
+    {
+      "timestamp": 1778691885328,
+      "isObsidian": false
+    }
+  ],
+  [
+    "verification-before-completion",
+    {
+      "timestamp": 1778691885340,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vexor-cli",
+    {
+      "timestamp": 1778691885341,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vibers-code-review",
+    {
+      "timestamp": 1778691885345,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vexor",
+    {
+      "timestamp": 1778691885336,
+      "isObsidian": false
+    }
+  ],
+  [
+    "videodb-skills",
+    {
+      "timestamp": 1778691885350,
+      "isObsidian": false
+    }
+  ],
+  [
+    "videodb",
+    {
+      "timestamp": 1778691837746,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vizcom",
+    {
+      "timestamp": 1778691885353,
+      "isObsidian": false
+    }
+  ],
+  [
+    "warren-buffett",
+    {
+      "timestamp": 1778691885357,
+      "isObsidian": false
+    }
+  ],
+  [
+    "weightloss-analyzer",
+    {
+      "timestamp": 1778691885370,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wellally-tech",
+    {
+      "timestamp": 1778691885368,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-architect",
+    {
+      "timestamp": 1778691885373,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-changelog",
+    {
+      "timestamp": 1778691885375,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-qa",
+    {
+      "timestamp": 1778691885380,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-onboarding",
+    {
+      "timestamp": 1778691885377,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-researcher",
+    {
+      "timestamp": 1778691885382,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-page-writer",
+    {
+      "timestamp": 1778691885379,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wiki-vitepress",
+    {
+      "timestamp": 1778691885386,
+      "isObsidian": false
+    }
+  ],
+  [
+    "windows-privilege-escalation",
+    {
+      "timestamp": 1778691885384,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wireshark-analysis",
+    {
+      "timestamp": 1778691885390,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wordpress-plugin-development",
+    {
+      "timestamp": 1778691885393,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wordpress-theme-development",
+    {
+      "timestamp": 1778691885402,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wordpress-woocommerce-development",
+    {
+      "timestamp": 1778691885400,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wordpress",
+    {
+      "timestamp": 1778691885391,
+      "isObsidian": false
+    }
+  ],
+  [
+    "writing-plans",
+    {
+      "timestamp": 1778691885409,
+      "isObsidian": false
+    }
+  ],
+  [
+    "writing-skills",
+    {
+      "timestamp": 1778691683589,
+      "isObsidian": false
+    }
+  ],
+  [
+    "x-article-publisher-skill",
+    {
+      "timestamp": 1778691885424,
+      "isObsidian": false
+    }
+  ],
+  [
+    "yann-lecun-debate",
+    {
+      "timestamp": 1778691885419,
+      "isObsidian": false
+    }
+  ],
+  [
+    "xlsx-official",
+    {
+      "timestamp": 1778691683593,
+      "isObsidian": false
+    }
+  ],
+  [
+    "yann-lecun-filosofia",
+    {
+      "timestamp": 1778691885414,
+      "isObsidian": false
+    }
+  ],
+  [
+    "yann-lecun-tecnico",
+    {
+      "timestamp": 1778691885418,
+      "isObsidian": false
+    }
+  ],
+  [
+    "yes-md",
+    {
+      "timestamp": 1778691885423,
+      "isObsidian": false
+    }
+  ],
+  [
+    "yann-lecun",
+    {
+      "timestamp": 1778691885416,
+      "isObsidian": false
+    }
+  ],
+  [
+    "youtube-summarizer",
+    {
+      "timestamp": 1778691683599,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zod-validation-expert",
+    {
+      "timestamp": 1778691885430,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zustand-store-ts",
+    {
+      "timestamp": 1778691885437,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Languages & Runtimes",
+    {
+      "timestamp": 1778691683603,
+      "isObsidian": false
+    }
+  ],
+  [
+    "biopython",
+    {
+      "timestamp": 1778691850651,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Mobile & App",
+    {
+      "timestamp": 1778691683606,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Security & Hacking",
+    {
+      "timestamp": 1778691685072,
+      "isObsidian": false
+    }
+  ],
+  [
+    "Software Engineering",
+    {
+      "timestamp": 1778691685075,
+      "isObsidian": false
+    }
+  ],
+  [
+    "android-jetpack-compose-expert",
+    {
+      "timestamp": 1778691850307,
+      "isObsidian": false
+    }
+  ],
+  [
+    "accessibility-compliance-accessibility-audit",
+    {
+      "timestamp": 1778691825866,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ab-test-setup",
+    {
+      "timestamp": 1778691850238,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bun-development",
+    {
+      "timestamp": 1778691850682,
+      "isObsidian": false
+    }
+  ],
+  [
+    "c-pro",
+    {
+      "timestamp": 1778691850691,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dbos-python",
+    {
+      "timestamp": 1778691685085,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dbos-golang",
+    {
+      "timestamp": 1778691685086,
+      "isObsidian": false
+    }
+  ],
+  [
+    "csharp-pro",
+    {
+      "timestamp": 1778691855224,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cpp-pro",
+    {
+      "timestamp": 1778691855209,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dbos-typescript",
+    {
+      "timestamp": 1778691687616,
+      "isObsidian": false
+    }
+  ],
+  [
+    "golang-pro",
+    {
+      "timestamp": 1778691860311,
+      "isObsidian": false
+    }
+  ],
+  [
+    "haskell-pro",
+    {
+      "timestamp": 1778691860353,
+      "isObsidian": false
+    }
+  ],
+  [
+    "grpc-golang",
+    {
+      "timestamp": 1778691829919,
+      "isObsidian": false
+    }
+  ],
+  [
+    "java-pro",
+    {
+      "timestamp": 1778691866658,
+      "isObsidian": false
+    }
+  ],
+  [
+    "julia-pro",
+    {
+      "timestamp": 1778691866670,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-code-javascript",
+    {
+      "timestamp": 1778691874125,
+      "isObsidian": false
+    }
+  ],
+  [
+    "javascript-mastery",
+    {
+      "timestamp": 1778691866660,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-code-python",
+    {
+      "timestamp": 1778691874128,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nodejs-best-practices",
+    {
+      "timestamp": 1778691874200,
+      "isObsidian": false
+    }
+  ],
+  [
+    "javascript-typescript-typescript-scaffold",
+    {
+      "timestamp": 1778691866668,
+      "isObsidian": false
+    }
+  ],
+  [
+    "javascript-pro",
+    {
+      "timestamp": 1778691866663,
+      "isObsidian": false
+    }
+  ],
+  [
+    "php-pro",
+    {
+      "timestamp": 1778691874392,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-development-python-scaffold",
+    {
+      "timestamp": 1778691884962,
+      "isObsidian": false
+    }
+  ],
+  [
+    "playwright-java",
+    {
+      "timestamp": 1778691687633,
+      "isObsidian": false
+    }
+  ],
+  [
+    "systems-programming-rust-project",
+    {
+      "timestamp": 1778691885208,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ruby-pro",
+    {
+      "timestamp": 1778691885025,
+      "isObsidian": false
+    }
+  ],
+  [
+    "rust-pro",
+    {
+      "timestamp": 1778691885024,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-pro",
+    {
+      "timestamp": 1778691884965,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-packaging",
+    {
+      "timestamp": 1778691837619,
+      "isObsidian": false
+    }
+  ],
+  [
+    "temporal-python-pro",
+    {
+      "timestamp": 1778691885235,
+      "isObsidian": false
+    }
+  ],
+  [
+    "typescript-advanced-types",
+    {
+      "timestamp": 1778691837728,
+      "isObsidian": false
+    }
+  ],
+  [
+    "typescript-pro",
+    {
+      "timestamp": 1778691885306,
+      "isObsidian": false
+    }
+  ],
+  [
+    "unreal-engine-cpp-pro",
+    {
+      "timestamp": 1778691837736,
+      "isObsidian": false
+    }
+  ],
+  [
+    "typescript-expert",
+    {
+      "timestamp": 1778691837731,
+      "isObsidian": false
+    }
+  ],
+  [
+    "temporal-golang-pro",
+    {
+      "timestamp": 1778691837712,
+      "isObsidian": false
+    }
+  ],
+  [
+    "flutter-expert",
+    {
+      "timestamp": 1778691860177,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ios-developer",
+    {
+      "timestamp": 1778691866652,
+      "isObsidian": false
+    }
+  ],
+  [
+    "kotlin-coroutines-expert",
+    {
+      "timestamp": 1778691866682,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-dev-client",
+    {
+      "timestamp": 1778691860096,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mobile-developer",
+    {
+      "timestamp": 1778691874033,
+      "isObsidian": false
+    }
+  ],
+  [
+    "upgrading-expo",
+    {
+      "timestamp": 1778691885315,
+      "isObsidian": false
+    }
+  ],
+  [
+    "claude-settings-audit",
+    {
+      "timestamp": 1778691855103,
+      "isObsidian": false
+    }
+  ],
+  [
+    "codebase-audit-pre-push",
+    {
+      "timestamp": 1778691855134,
+      "isObsidian": false
+    }
+  ],
+  [
+    "audit-skills",
+    {
+      "timestamp": 1778691850348,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-security-review",
+    {
+      "timestamp": 1778691855061,
+      "isObsidian": false
+    }
+  ],
+  [
+    "codebase-cleanup-deps-audit",
+    {
+      "timestamp": 1778691827611,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dependency-management-deps-audit",
+    {
+      "timestamp": 1778691827697,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ethical-hacking-methodology",
+    {
+      "timestamp": 1778691860064,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fda-food-safety-auditor",
+    {
+      "timestamp": 1778691860131,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fda-medtech-compliance-auditor",
+    {
+      "timestamp": 1778691860136,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gha-security-review",
+    {
+      "timestamp": 1778691860272,
+      "isObsidian": false
+    }
+  ],
+  [
+    "k8s-security-policies",
+    {
+      "timestamp": 1778691832681,
+      "isObsidian": false
+    }
+  ],
+  [
+    "firmware-analyst",
+    {
+      "timestamp": 1778691860163,
+      "isObsidian": false
+    }
+  ],
+  [
+    "mobile-security-coder",
+    {
+      "timestamp": 1778691874030,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-security-rules",
+    {
+      "timestamp": 1778691874309,
+      "isObsidian": false
+    }
+  ],
+  [
+    "protocol-reverse-engineering",
+    {
+      "timestamp": 1778691837616,
+      "isObsidian": false
+    }
+  ],
+  [
+    "production-code-audit",
+    {
+      "timestamp": 1778691884943,
+      "isObsidian": false
+    }
+  ],
+  [
+    "red-team-tactics",
+    {
+      "timestamp": 1778691884997,
+      "isObsidian": false
+    }
+  ],
+  [
+    "red-team-tools",
+    {
+      "timestamp": 1778691884993,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-compliance-compliance-check",
+    {
+      "timestamp": 1778691837650,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-scanning-security-hardening",
+    {
+      "timestamp": 1778691885064,
+      "isObsidian": false
+    }
+  ],
+  [
+    "solidity-security",
+    {
+      "timestamp": 1778691837676,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threat-mitigation-mapping",
+    {
+      "timestamp": 1778691837723,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-scanning-security-dependencies",
+    {
+      "timestamp": 1778691837655,
+      "isObsidian": false
+    }
+  ],
+  [
+    "threat-modeling-expert",
+    {
+      "timestamp": 1778691885257,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vibe-code-auditor",
+    {
+      "timestamp": 1778691885343,
+      "isObsidian": false
+    }
+  ],
+  [
+    "vulnerability-scanner",
+    {
+      "timestamp": 1778691712090,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zeroize-audit",
+    {
+      "timestamp": 1778691885428,
+      "isObsidian": false
+    }
+  ],
+  [
+    "security-scanning-security-sast",
+    {
+      "timestamp": 1778691885068,
+      "isObsidian": false
+    }
+  ],
+  [
+    "angular-ui-patterns",
+    {
+      "timestamp": 1778691712096,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-design-principles",
+    {
+      "timestamp": 1778691825905,
+      "isObsidian": false
+    }
+  ],
+  [
+    "address-github-comments",
+    {
+      "timestamp": 1778691850245,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-documentation-generator",
+    {
+      "timestamp": 1778691850317,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-documentation",
+    {
+      "timestamp": 1778691850315,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-endpoint-builder",
+    {
+      "timestamp": 1778691712103,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-documenter",
+    {
+      "timestamp": 1778691850319,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-fuzzing-bug-bounty",
+    {
+      "timestamp": 1778691850321,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-patterns",
+    {
+      "timestamp": 1778691712107,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-security-best-practices",
+    {
+      "timestamp": 1778691850323,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-testing-observability-api-mock",
+    {
+      "timestamp": 1778691825910,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-actor-development",
+    {
+      "timestamp": 1778691825913,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-actorization",
+    {
+      "timestamp": 1778691825916,
+      "isObsidian": false
+    }
+  ],
+  [
+    "api-security-testing",
+    {
+      "timestamp": 1778691850325,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-audience-analysis",
+    {
+      "timestamp": 1778691825922,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-ecommerce",
+    {
+      "timestamp": 1778691825934,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-influencer-discovery",
+    {
+      "timestamp": 1778691825937,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-brand-reputation-monitoring",
+    {
+      "timestamp": 1778691825926,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-content-analytics",
+    {
+      "timestamp": 1778691825930,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-lead-generation",
+    {
+      "timestamp": 1778691825940,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-market-research",
+    {
+      "timestamp": 1778691825947,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-competitor-intelligence",
+    {
+      "timestamp": 1778691825919,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-trend-analysis",
+    {
+      "timestamp": 1778691825944,
+      "isObsidian": false
+    }
+  ],
+  [
+    "apify-ultimate-scraper",
+    {
+      "timestamp": 1778691825950,
+      "isObsidian": false
+    }
+  ],
+  [
+    "architecture-patterns",
+    {
+      "timestamp": 1778691825957,
+      "isObsidian": false
+    }
+  ],
+  [
+    "architecture-decision-records",
+    {
+      "timestamp": 1778691850334,
+      "isObsidian": false
+    }
+  ],
+  [
+    "auth-implementation-patterns",
+    {
+      "timestamp": 1778691825973,
+      "isObsidian": false
+    }
+  ],
+  [
+    "aws-penetration-testing",
+    {
+      "timestamp": 1778691825976,
+      "isObsidian": false
+    }
+  ],
+  [
+    "awt-e2e-testing",
+    {
+      "timestamp": 1778691850365,
+      "isObsidian": false
+    }
+  ],
+  [
+    "async-python-patterns",
+    {
+      "timestamp": 1778691825960,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-apicenter-dotnet",
+    {
+      "timestamp": 1778691850517,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-apimanagement-dotnet",
+    {
+      "timestamp": 1778691850526,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-apicenter-py",
+    {
+      "timestamp": 1778691850522,
+      "isObsidian": false
+    }
+  ],
+  [
+    "architecture",
+    {
+      "timestamp": 1778691712154,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-mgmt-apimanagement-py",
+    {
+      "timestamp": 1778691850524,
+      "isObsidian": false
+    }
+  ],
+  [
+    "backend-architect",
+    {
+      "timestamp": 1778691850619,
+      "isObsidian": false
+    }
+  ],
+  [
+    "backend-development-feature-development",
+    {
+      "timestamp": 1778691850621,
+      "isObsidian": false
+    }
+  ],
+  [
+    "backend-dev-guidelines",
+    {
+      "timestamp": 1778691825996,
+      "isObsidian": false
+    }
+  ],
+  [
+    "azure-microsoft-playwright-testing-ts",
+    {
+      "timestamp": 1778691850544,
+      "isObsidian": false
+    }
+  ],
+  [
+    "backend-security-coder",
+    {
+      "timestamp": 1778691850623,
+      "isObsidian": false
+    }
+  ],
+  [
+    "backtesting-frameworks",
+    {
+      "timestamp": 1778691825999,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bash-defensive-patterns",
+    {
+      "timestamp": 1778691826002,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bash-pro",
+    {
+      "timestamp": 1778691850638,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bash-linux",
+    {
+      "timestamp": 1778691850630,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bats-testing-patterns",
+    {
+      "timestamp": 1778691826006,
+      "isObsidian": false
+    }
+  ],
+  [
+    "bash-scripting",
+    {
+      "timestamp": 1778691850632,
+      "isObsidian": false
+    }
+  ],
+  [
+    "binary-analysis-patterns",
+    {
+      "timestamp": 1778691850649,
+      "isObsidian": false
+    }
+  ],
+  [
+    "browser-testing-with-devtools",
+    {
+      "timestamp": 1778691850673,
+      "isObsidian": false
+    }
+  ],
+  [
+    "burp-suite-testing",
+    {
+      "timestamp": 1778691850685,
+      "isObsidian": false
+    }
+  ],
+  [
+    "c4-architecture-c4-architecture",
+    {
+      "timestamp": 1778691850694,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-backend-patterns",
+    {
+      "timestamp": 1778691855056,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cc-skill-frontend-patterns",
+    {
+      "timestamp": 1778691855073,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cdk-patterns",
+    {
+      "timestamp": 1778691855075,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cicd-automation-workflow-automate",
+    {
+      "timestamp": 1778691827579,
+      "isObsidian": false
+    }
+  ],
+  [
+    "clean-code",
+    {
+      "timestamp": 1778691855101,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloud-devops",
+    {
+      "timestamp": 1778691855113,
+      "isObsidian": false
+    }
+  ],
+  [
+    "cloud-penetration-testing",
+    {
+      "timestamp": 1778691827594,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-refactoring-context-restore",
+    {
+      "timestamp": 1778691855120,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-refactoring-tech-debt",
+    {
+      "timestamp": 1778691855124,
+      "isObsidian": false
+    }
+  ],
+  [
+    "code-refactoring-refactor-clean",
+    {
+      "timestamp": 1778691827606,
+      "isObsidian": false
+    }
+  ],
+  [
+    "codebase-cleanup-refactor-clean",
+    {
+      "timestamp": 1778691827622,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dbt-transformation-patterns",
+    {
+      "timestamp": 1778691827681,
+      "isObsidian": false
+    }
+  ],
+  [
+    "debugger",
+    {
+      "timestamp": 1778691855258,
+      "isObsidian": false
+    }
+  ],
+  [
+    "debugging-and-error-recovery",
+    {
+      "timestamp": 1778691855260,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ddd-tactical-patterns",
+    {
+      "timestamp": 1778691827690,
+      "isObsidian": false
+    }
+  ],
+  [
+    "debug-buttercup",
+    {
+      "timestamp": 1778691855256,
+      "isObsidian": false
+    }
+  ],
+  [
+    "debugging-toolkit-smart-debug",
+    {
+      "timestamp": 1778691855264,
+      "isObsidian": false
+    }
+  ],
+  [
+    "debugging-strategies",
+    {
+      "timestamp": 1778691827693,
+      "isObsidian": false
+    }
+  ],
+  [
+    "devops-deploy",
+    {
+      "timestamp": 1778691855292,
+      "isObsidian": false
+    }
+  ],
+  [
+    "devops-troubleshooter",
+    {
+      "timestamp": 1778691855290,
+      "isObsidian": false
+    }
+  ],
+  [
+    "distributed-debugging-debug-trace",
+    {
+      "timestamp": 1778691827710,
+      "isObsidian": false
+    }
+  ],
+  [
+    "docker-expert",
+    {
+      "timestamp": 1778691855310,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dotnet-backend",
+    {
+      "timestamp": 1778691860015,
+      "isObsidian": false
+    }
+  ],
+  [
+    "dotnet-backend-patterns",
+    {
+      "timestamp": 1778691829744,
+      "isObsidian": false
+    }
+  ],
+  [
+    "e2e-testing-patterns",
+    {
+      "timestamp": 1778691829747,
+      "isObsidian": false
+    }
+  ],
+  [
+    "e2e-testing",
+    {
+      "timestamp": 1778691860028,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-debugging-error-analysis",
+    {
+      "timestamp": 1778691829774,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-debugging-error-trace",
+    {
+      "timestamp": 1778691829771,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-diagnostics-smart-debug",
+    {
+      "timestamp": 1778691860059,
+      "isObsidian": false
+    }
+  ],
+  [
+    "error-handling-patterns",
+    {
+      "timestamp": 1778691829783,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-api-routes",
+    {
+      "timestamp": 1778691860079,
+      "isObsidian": false
+    }
+  ],
+  [
+    "expo-cicd-workflows",
+    {
+      "timestamp": 1778691860088,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fastapi-pro",
+    {
+      "timestamp": 1778691860124,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fastapi-router-py",
+    {
+      "timestamp": 1778691860126,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fastapi-templates",
+    {
+      "timestamp": 1778691829793,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-backend",
+    {
+      "timestamp": 1778691860188,
+      "isObsidian": false
+    }
+  ],
+  [
+    "fp-refactor",
+    {
+      "timestamp": 1778691860204,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gemini-api",
+    {
+      "timestamp": 1778691829851,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gemini-api-dev",
+    {
+      "timestamp": 1778691860260,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gemini-api-integration",
+    {
+      "timestamp": 1778691860262,
+      "isObsidian": false
+    }
+  ],
+  [
+    "git-advanced-workflows",
+    {
+      "timestamp": 1778691860275,
+      "isObsidian": false
+    }
+  ],
+  [
+    "git-pr-workflows-git-workflow",
+    {
+      "timestamp": 1778691860286,
+      "isObsidian": false
+    }
+  ],
+  [
+    "git-hooks-automation",
+    {
+      "timestamp": 1778691860270,
+      "isObsidian": false
+    }
+  ],
+  [
+    "git-pushing",
+    {
+      "timestamp": 1778691829864,
+      "isObsidian": false
+    }
+  ],
+  [
+    "git-pr-workflows-onboard",
+    {
+      "timestamp": 1778691860284,
+      "isObsidian": false
+    }
+  ],
+  [
+    "git-pr-workflows-pr-enhance",
+    {
+      "timestamp": 1778691829866,
+      "isObsidian": false
+    }
+  ],
+  [
+    "github-automation",
+    {
+      "timestamp": 1778691860291,
+      "isObsidian": false
+    }
+  ],
+  [
+    "github-issue-creator",
+    {
+      "timestamp": 1778691860293,
+      "isObsidian": false
+    }
+  ],
+  [
+    "github-actions-templates",
+    {
+      "timestamp": 1778691860288,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gitlab-automation",
+    {
+      "timestamp": 1778691860298,
+      "isObsidian": false
+    }
+  ],
+  [
+    "github-workflow-automation",
+    {
+      "timestamp": 1778691860295,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gitlab-ci-patterns",
+    {
+      "timestamp": 1778691860300,
+      "isObsidian": false
+    }
+  ],
+  [
+    "gitops-workflow",
+    {
+      "timestamp": 1778691829868,
+      "isObsidian": false
+    }
+  ],
+  [
+    "go-concurrency-patterns",
+    {
+      "timestamp": 1778691829876,
+      "isObsidian": false
+    }
+  ],
+  [
+    "godot-gdscript-patterns",
+    {
+      "timestamp": 1778691829905,
+      "isObsidian": false
+    }
+  ],
+  [
+    "hig-patterns",
+    {
+      "timestamp": 1778691829978,
+      "isObsidian": false
+    }
+  ],
+  [
+    "idor-testing",
+    {
+      "timestamp": 1778691866606,
+      "isObsidian": false
+    }
+  ],
+  [
+    "javascript-testing-patterns",
+    {
+      "timestamp": 1778691832674,
+      "isObsidian": false
+    }
+  ],
+  [
+    "k6-load-testing",
+    {
+      "timestamp": 1778691866673,
+      "isObsidian": false
+    }
+  ],
+  [
+    "kubernetes-deployment",
+    {
+      "timestamp": 1778691866691,
+      "isObsidian": false
+    }
+  ],
+  [
+    "kubernetes-architect",
+    {
+      "timestamp": 1778691866693,
+      "isObsidian": false
+    }
+  ],
+  [
+    "lightning-architecture-review",
+    {
+      "timestamp": 1778691866718,
+      "isObsidian": false
+    }
+  ],
+  [
+    "lint-and-validate",
+    {
+      "timestamp": 1778691832700,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linkerd-patterns",
+    {
+      "timestamp": 1778691866727,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linux-privilege-escalation",
+    {
+      "timestamp": 1778691866737,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linux-shell-scripting",
+    {
+      "timestamp": 1778691866739,
+      "isObsidian": false
+    }
+  ],
+  [
+    "linux-troubleshooting",
+    {
+      "timestamp": 1778691866759,
+      "isObsidian": false
+    }
+  ],
+  [
+    "memory-safety-patterns",
+    {
+      "timestamp": 1778691835077,
+      "isObsidian": false
+    }
+  ],
+  [
+    "microservices-patterns",
+    {
+      "timestamp": 1778691835080,
+      "isObsidian": false
+    }
+  ],
+  [
+    "modern-javascript-patterns",
+    {
+      "timestamp": 1778691835083,
+      "isObsidian": false
+    }
+  ],
+  [
+    "moodle-external-api-development",
+    {
+      "timestamp": 1778691874051,
+      "isObsidian": false
+    }
+  ],
+  [
+    "multi-cloud-architecture",
+    {
+      "timestamp": 1778691874101,
+      "isObsidian": false
+    }
+  ],
+  [
+    "n8n-workflow-patterns",
+    {
+      "timestamp": 1778691874139,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nextjs-app-router-patterns",
+    {
+      "timestamp": 1778691835089,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nodejs-backend-patterns",
+    {
+      "timestamp": 1778691835092,
+      "isObsidian": false
+    }
+  ],
+  [
+    "nx-workspace-patterns",
+    {
+      "timestamp": 1778691874227,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-automated-tests",
+    {
+      "timestamp": 1778691874239,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-docker-deployment",
+    {
+      "timestamp": 1778691874251,
+      "isObsidian": false
+    }
+  ],
+  [
+    "odoo-rpc-api",
+    {
+      "timestamp": 1778691874303,
+      "isObsidian": false
+    }
+  ],
+  [
+    "on-call-handoff-patterns",
+    {
+      "timestamp": 1778691874321,
+      "isObsidian": false
+    }
+  ],
+  [
+    "openapi-spec-generation",
+    {
+      "timestamp": 1778691835179,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pentest-checklist",
+    {
+      "timestamp": 1778691874378,
+      "isObsidian": false
+    }
+  ],
+  [
+    "pentest-commands",
+    {
+      "timestamp": 1778691874372,
+      "isObsidian": false
+    }
+  ],
+  [
+    "powershell-windows",
+    {
+      "timestamp": 1778691874433,
+      "isObsidian": false
+    }
+  ],
+  [
+    "projection-patterns",
+    {
+      "timestamp": 1778691837612,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-fastapi-development",
+    {
+      "timestamp": 1778691884959,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-patterns",
+    {
+      "timestamp": 1778691884960,
+      "isObsidian": false
+    }
+  ],
+  [
+    "python-testing-patterns",
+    {
+      "timestamp": 1778691837626,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-native-architecture",
+    {
+      "timestamp": 1778691837633,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-patterns",
+    {
+      "timestamp": 1778691884983,
+      "isObsidian": false
+    }
+  ],
+  [
+    "react-ui-patterns",
+    {
+      "timestamp": 1778691884988,
+      "isObsidian": false
+    }
+  ],
+  [
+    "robius-app-architecture",
+    {
+      "timestamp": 1778691885012,
+      "isObsidian": false
+    }
+  ],
+  [
+    "robius-widget-patterns",
+    {
+      "timestamp": 1778691885020,
+      "isObsidian": false
+    }
+  ],
+  [
+    "rust-async-patterns",
+    {
+      "timestamp": 1778691837642,
+      "isObsidian": false
+    }
+  ],
+  [
+    "screen-reader-testing",
+    {
+      "timestamp": 1778691837647,
+      "isObsidian": false
+    }
+  ],
+  [
+    "similarity-search-patterns",
+    {
+      "timestamp": 1778691837668,
+      "isObsidian": false
+    }
+  ],
+  [
+    "smtp-penetration-testing",
+    {
+      "timestamp": 1778691885155,
+      "isObsidian": false
+    }
+  ],
+  [
+    "software-architecture",
+    {
+      "timestamp": 1778691885161,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sql-injection-testing",
+    {
+      "timestamp": 1778691885166,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sql-optimization-patterns",
+    {
+      "timestamp": 1778691837688,
+      "isObsidian": false
+    }
+  ],
+  [
+    "sqlmap-database-pentesting",
+    {
+      "timestamp": 1778691885170,
+      "isObsidian": false
+    }
+  ],
+  [
+    "ssh-penetration-testing",
+    {
+      "timestamp": 1778691885175,
+      "isObsidian": false
+    }
+  ],
+  [
+    "stride-analysis-patterns",
+    {
+      "timestamp": 1778691837696,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tdd-orchestrator",
+    {
+      "timestamp": 1778691885220,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tdd-workflow",
+    {
+      "timestamp": 1778691885218,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tdd-workflows-tdd-cycle",
+    {
+      "timestamp": 1778691885224,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tdd-workflows-tdd-green",
+    {
+      "timestamp": 1778691837703,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tdd-workflows-tdd-red",
+    {
+      "timestamp": 1778691885222,
+      "isObsidian": false
+    }
+  ],
+  [
+    "tdd-workflows-tdd-refactor",
+    {
+      "timestamp": 1778691885229,
+      "isObsidian": false
+    }
+  ],
+  [
+    "temporal-python-testing",
+    {
+      "timestamp": 1778691837715,
+      "isObsidian": false
+    }
+  ],
+  [
+    "test-driven-development",
+    {
+      "timestamp": 1778691885251,
+      "isObsidian": false
+    }
+  ],
+  [
+    "test-automator",
+    {
+      "timestamp": 1778691885250,
+      "isObsidian": false
+    }
+  ],
+  [
+    "test-fixing",
+    {
+      "timestamp": 1778691885253,
+      "isObsidian": false
+    }
+  ],
+  [
+    "testing-patterns",
+    {
+      "timestamp": 1778691837720,
+      "isObsidian": false
+    }
+  ],
+  [
+    "testing-qa",
+    {
+      "timestamp": 1778691885255,
+      "isObsidian": false
+    }
+  ],
+  [
+    "unit-testing-test-generate",
+    {
+      "timestamp": 1778691885311,
+      "isObsidian": false
+    }
+  ],
+  [
+    "unity-ecs-patterns",
+    {
+      "timestamp": 1778691837738,
+      "isObsidian": false
+    }
+  ],
+  [
+    "using-git-worktrees",
+    {
+      "timestamp": 1778691885322,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wcag-audit-patterns",
+    {
+      "timestamp": 1778691837748,
+      "isObsidian": false
+    }
+  ],
+  [
+    "web-security-testing",
+    {
+      "timestamp": 1778691885362,
+      "isObsidian": false
+    }
+  ],
+  [
+    "web3-testing",
+    {
+      "timestamp": 1778691885364,
+      "isObsidian": false
+    }
+  ],
+  [
+    "whatsapp-cloud-api",
+    {
+      "timestamp": 1778691837752,
+      "isObsidian": false
+    }
+  ],
+  [
+    "wordpress-penetration-testing",
+    {
+      "timestamp": 1778691885388,
+      "isObsidian": false
+    }
+  ],
+  [
+    "workflow-orchestration-patterns",
+    {
+      "timestamp": 1778691885404,
+      "isObsidian": false
+    }
+  ],
+  [
+    "workflow-patterns",
+    {
+      "timestamp": 1778691837755,
+      "isObsidian": false
+    }
+  ],
+  [
+    "zapier-make-patterns",
+    {
+      "timestamp": 1778691885426,
+      "isObsidian": false
+    }
+  ],
+  [
+    "skills",
+    {
+      "timestamp": 1778691755516,
+      "isObsidian": false
+    }
+  ],
+  [
+    "systematic-debugging",
+    {
+      "timestamp": 1778691756667,
+      "isObsidian": false
+    }
+  ],
+  [
+    "webapp-testing",
+    {
+      "timestamp": 1778691756669,
+      "isObsidian": false
+    }
+  ]
+]

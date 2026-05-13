@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity Ecosystem</title>
+  <meta name="description" content="Real-time visualization of 1271+ AI agent skills ecosystem">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header id="header">
+    <div class="header-left">
+      <div class="logo-glow"></div>
+      <h1>Antigravity <span class="accent">Ecosystem</span></h1>
+    </div>
+    <div class="header-stats">
+      <div class="stat" id="stat-total">
+        <span class="stat-value">--</span>
+        <span class="stat-label">Skills</span>
+      </div>
+      <div class="stat" id="stat-categories">
+        <span class="stat-value">10</span>
+        <span class="stat-label">Categorias</span>
+      </div>
+      <div class="stat" id="stat-activations">
+        <span class="stat-value">0</span>
+        <span class="stat-label">Ativações</span>
+      </div>
+      <div class="stat connection-status" id="stat-connection">
+        <span class="status-dot"></span>
+        <span class="stat-label">Conectado</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Canvas -->
+  <canvas id="graph-canvas"></canvas>
+
+  <!-- Active Skill Overlay -->
+  <div id="active-overlay" class="hidden">
+    <div class="active-pill">
+      <div class="active-dot"></div>
+      <span id="active-skill-name">--</span>
+      <span id="active-skill-category" class="active-category">--</span>
+    </div>
+  </div>
+
+  <!-- Sidebar -->
+  <aside id="sidebar">
+    <div class="sidebar-header">
+      <h2>⚡ Ativações</h2>
+    </div>
+    <div id="activity-log"></div>
+    
+    <div class="sidebar-header" style="margin-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 20px;">
+      <h2>📖 Documentação</h2>
+    </div>
+    <div id="doc-feed"></div>
+
+    
+    <div class="sidebar-footer">
+      <div class="test-panel">
+        <input type="text" id="test-skill-input" placeholder="Neural Command..." autocomplete="off">
+        <button id="btn-test-trigger">FIRE</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Category Legend -->
+  <div id="legend">
+    <h3>Categorias</h3>
+    <div id="legend-items"></div>
+  </div>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="hidden">
+    <div class="tooltip-name"></div>
+    <div class="tooltip-category"></div>
+    <div class="tooltip-desc"></div>
+  </div>
+
+  <!-- Search -->
+  <div id="search-bar">
+    <input type="text" id="search-input" placeholder="Buscar skill..." autocomplete="off">
+    <div id="search-results" class="hidden"></div>
+  </div>
+
+  <!-- System Monitor Overlay -->
+  <div id="system-monitor">
+    <div class="monitor-row"><span class="m-label">LATENCY:</span> <span class="m-val" id="m-latency">--ms</span></div>
+    <div class="monitor-row"><span class="m-label">UPTIME:</span> <span class="m-val" id="m-uptime">--:--:--</span></div>
+    <div class="monitor-row"><span class="m-label">NEURAL_LOAD:</span> <span class="m-val" id="m-load">--%</span></div>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
