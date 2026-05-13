@@ -14,7 +14,7 @@ O **Antigravity Ecosystem** é o sistema nervoso central de uma infraestrutura d
 ### 📼 Demonstração em Tempo Real
 
 <div align="center">
-  <video src="media/teste1111.mp4" width="100%" controls></video>
+  <video src="media/teste1111.mp4"></video>
   <p><i>Visualização da malha neural processando sinais de ativação e sincronização de conhecimento.</i></p>
 </div>
 
