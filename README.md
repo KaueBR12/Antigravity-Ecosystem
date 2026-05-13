@@ -1,15 +1,7 @@
 # ⚡ ANTIGRAVITY ECOSYSTEM
 
 > **HYPER-BRUTALIST ENGINEERING DASHBOARD**
->
-> *Real-time Cognitive Mapping & Neural Skill Orchestration*
 
-<div align="center">
-  <video src="teste1111.mp4" width="100%" controls></video>
-
-</div>
-
----
 
 ## 🛰️ Visão Geral
 
