@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/indexed-db/
