@@ -1,8 +1,6 @@
 # ⚡ ANTIGRAVITY ECOSYSTEM
 
-![Antigravity Banner](media/banner.png)
-
-> **HYPER-BRUTALIST ENGINEERING DASHBOARD**
+> **ECOSYSTEM ENGINEERING DASHBOARD**
 > *Status: Operational | Version: 2.0.25 | Design Protocol: Brutalist-Alpha*
 
 ---
@@ -11,14 +9,6 @@
 
 O **Antigravity Ecosystem** é o sistema nervoso central de uma infraestrutura de desenvolvimento orientada a agentes. Projetado para oferecer visibilidade total sobre processos cognitivos artificiais, o ecossistema mapeia, em tempo real, a ativação de skills, o fluxo de conhecimento do **Obsidian** e a telemetria de execução.
 
-### 📼 Demonstração em Tempo Real
-
-<div align="center">
-  <video src="media/teste1111.mp4"></video>
-  <p><i>Visualização da malha neural processando sinais de ativação e sincronização de conhecimento.</i></p>
-</div>
-
----
 
 ## 🔳 Core Philosophy: Hyper-Brutalist Engineering
 
