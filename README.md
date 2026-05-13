@@ -4,7 +4,7 @@
 >
 > *Real-time Cognitive Mapping & Neural Skill Orchestration*
 
-<video src="https://github.com/KaueBR12/Antigravity-Ecosystem/raw/main/ecosystem/teste1111.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/KaueBR12/Antigravity-Ecosystem/main/ecosystem/teste1111.mp4" width="100%" controls></video>
 
 ---
 

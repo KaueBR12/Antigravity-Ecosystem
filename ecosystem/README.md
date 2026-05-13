@@ -4,7 +4,7 @@
 
 O **Ecosystem Dashboard** é o centro de comando visual do Antigravity. Ele mapeia a atividade cognitiva do agente em tempo real, transformando o uso de ferramentas e workflows em uma rede neural interativa.
 
-<video src="https://github.com/KaueBR12/Antigravity-Ecosystem/raw/main/ecosystem/teste1111.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/KaueBR12/Antigravity-Ecosystem/main/ecosystem/teste1111.mp4" width="100%" controls></video>
 
 ---
 
