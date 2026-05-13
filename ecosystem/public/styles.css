@@ -411,7 +411,7 @@ h1 .accent {
   align-items: flex-start;
   gap: 12px;
   padding: 12px;
-  border-radius: 8px;
+  border-radius: 0;
   margin-bottom: 6px;
   background: rgba(255, 255, 255, 0.02);
   border: 1px solid transparent;
@@ -454,9 +454,9 @@ h1 .accent {
 
 .doc-entry {
   padding: 12px;
-  background: rgba(0, 229, 255, 0.05);
-  border-left: 3px solid var(--accent-cyan);
-  border-radius: 4px;
+  background: rgba(0, 255, 127, 0.05);
+  border-left: 3px solid var(--accent-green);
+  border-radius: 0;
   margin-bottom: 12px;
   font-size: 11px;
   animation: slide-in 0.5s ease-out;
@@ -494,12 +494,10 @@ h1 .accent {
   left: 24px;
   z-index: 80;
   background: var(--bg-panel);
-  backdrop-filter: var(--glass-effect);
-  -webkit-backdrop-filter: var(--glass-effect);
-  border: 1px solid var(--border-glass);
-  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  border-radius: 0;
   padding: 16px 20px;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
   color: var(--text-primary);
 }
 
@@ -610,16 +608,15 @@ h1 .accent {
 #search-input {
   width: 100%;
   padding: 12px 20px;
-  border-radius: 999px;
-  border: 1px solid var(--border-glass);
-  background: rgba(8, 12, 20, 0.6);
-  backdrop-filter: blur(8px);
+  border-radius: 0;
+  border: 1px solid var(--border-color);
+  background: rgba(8, 12, 20, 0.9);
   color: var(--text-primary);
   font-family: var(--font-sans);
   font-size: 13px;
   outline: none;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
 }
 
 #search-input:focus {
@@ -674,16 +671,14 @@ h1 .accent {
   /* Ajustado para o novo sidebar */
   z-index: 80;
   background: var(--bg-panel);
-  backdrop-filter: var(--glass-effect);
-  -webkit-backdrop-filter: var(--glass-effect);
-  border: 1px solid var(--border-glass);
-  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  border-radius: 0;
   padding: 16px;
   display: flex;
   flex-direction: column;
   gap: 8px;
   min-width: 180px;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
   color: var(--text-primary);
 }
 
