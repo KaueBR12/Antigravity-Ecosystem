@@ -18,7 +18,8 @@ async function updateObsidianLog(message) {
             'Authorization': `Bearer ${API_KEY}`,
             'Content-Type': 'text/markdown',
             'Heading': 'Histórico de Sincronização'
-        }
+        },
+        rejectUnauthorized: false // Permite certificados auto-assinados comuns no Obsidian Local API
     };
 
     return new Promise((resolve, reject) => {
